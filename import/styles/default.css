@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Spline+Sans:wght@300..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Math&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Spline+Sans:wght@300..700&display=swap');
+
+
+:root {
+    --blue-50: #F1EFFF;
+    --blue-100: #D3CDFF;
+    --blue-300: #A192FF;
+    --blue-400: #8E7DFF;
+    --blue-500: #725DFF;
+    --blue-600: #6855E8;
+    --blue-700: #5142B5;
+    --black-0: #FFFFFF;
+    --black-50: #F8F9FA;
+    --black-100: #F1F3F4;
+    --black-200: #E8EAED;
+    --black-300: #DADCE0;
+    --black-400: #BDC1C6;
+    --black-500: #9AA0A6;
+    --black-958: #0E1013;
+    --yellow-50: #FFFAE6;
+    --yellow-100: #FFEFB0;
+    --yellow-400: #FFCC00;
+    --yellow-500: #FFCC00;
+    --yellow-600: #E8BA00;
+    --yellow-700: #B59100;
+    --green-50: #EBF9EE;
+    --green-100: #C0EECC;
+    --green-400: #5DD27A;
+    --green-500: #34C759;
+    --green-600: #2FB551;
+    --red-50: #FFEBEA;
+    --red-100: #FFC2BF;
+    --red-400: #FF6259;
+    --red-500: #FF3B30;
+    --red-600: #E8362C;
+
+    --blue-500-filter: invert(50%) sepia(87%) saturate(5062%) hue-rotate(232deg) brightness(101%) contrast(103%);
+    --black-400-filter: invert(59%) sepia(14%) saturate(0%) hue-rotate(37deg) brightness(89%) contrast(93%);
+    --yellow-500-filter: invert(64%) sepia(88%) saturate(930%) hue-rotate(4deg) brightness(111%) contrast(102%);
+    --red-500-filter: invert(59%) sepia(84%) saturate(6059%) hue-rotate(339deg) brightness(97%) contrast(109%);
+    --green-500-filter: invert(66%) sepia(76%) saturate(457%) hue-rotate(79deg) brightness(85%) contrast(88%);
+
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings: "wdth" 100;
+}
+
+body {
+    min-height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    margin: 0;
+
+    overflow-x: hidden;
+
+    background: var(--black-50);
+}
+
+svg {
+    width: 100%;
+    height: auto;
+}
+
+math {
+    font-family: "Noto Sans Math", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+.app {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: start;
+
+    min-height: calc(100vh - 48px);
+    width: calc(66vw - 48px);
+
+    min-width: calc(1440px - 48px);
+
+    overflow-x: hidden;
+
+
+    padding: 24px;
+    gap: 24px;
+}
+
+.horizontal-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.vertical-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.horizontal-divider {
+    width: 100%;
+    height: 1px;
+    background: var(--black-200);
+}
+
+.text-base {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.gap-32 {
+    gap: 32px
+}
+
+.gap-24 {
+    gap: 24px
+}
+
+
+.gap-16 {
+    gap: 16px
+}
+
+.gap-12 {
+    gap: 12px;
+}
+
+.gap-10 {
+    gap: 10px
+}
+
+.gap-8 {
+    gap: 8px
+}
+
+.gap-4 {
+    gap: 4px
+}
+
+.gap-50 {
+    gap: 50px;
+}
+
+.match-parent {
+    width: 100%;
+    height: 100%;
+}
+
+.max-width {
+    width: 100%;
+}
+
+.max-height {
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+
+    gap: 24px;
+    width: 100%;
+    height: 100%;
+
+    background: transparent;
+}
+
+.container-column {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    width: 100%;
+    height: 100%;
+    align-items: start;
+}
+
+.item-shadow {
+    box-shadow: 0 0 4px #24242412;
+}
+
+.gravity-right {
+    margin-left: auto;
+}
+
+.gravity-left {
+    margin-right: auto;
+}
+
+.hidden {
+    visibility: hidden;
+}

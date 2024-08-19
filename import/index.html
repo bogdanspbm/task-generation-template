@@ -1,0 +1,140 @@
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Импорт</title>
+    <link rel="stylesheet" type="text/css" href="./styles/default.css">
+    <link rel="stylesheet" type="text/css" href="./styles/navigation.css">
+    <link rel="stylesheet" type="text/css" href="./styles/sidebar.css">
+    <link rel="stylesheet" type="text/css" href="./styles/styles.css">
+</head>
+<body>
+<div class="app">
+    <div class="navigation item-shadow">
+        <div class="greetings-container vertical-container">
+            <h2>С возвращением, Питер!</h2>
+            <p>Давай решим еще один тест</p>
+        </div>
+        <div class="horizontal-container gap-24" style="margin-left: auto">
+            <a class="navigation-tab"><img src="./resources/icons/ic_search_24x24.svg"></a>
+            <a class="navigation-tab"><img src="./resources/icons/ic_cart_24x24.svg"></a>
+            <a class="navigation-tab"><img src="./resources/icons/ic_notifications_24x24.svg"></a>
+        </div>
+        <img src="./resources/icons/ic_avatar_58x58.svg">
+    </div>
+    <div class="container">
+        <div class="sidebar item-shadow">
+            <div class="tabs-group">
+                <h3>Основные</h3>
+                <a href="../dashboard/index.html" class="sidebar-tab"><img
+                        src="./resources/icons/ic_dashboard_24x24.svg">Дашбоард</a>
+                <div class="sidebar-tab"><img src="./resources/icons/ic_calendar_24x24.svg">Календарь</div>
+                <div class="sidebar-tab"><img src="./resources/icons/ic_chat_24x24.svg">Чаты</div>
+                <div class="sidebar-tab"><img src="./resources/icons/ic_payments_24x24.svg">Покупки</div>
+            </div>
+            <div class="tabs-group">
+                <h3>Курсы</h3>
+                <a href="../tasks/index.html" class="sidebar-tab"><img src="./resources/icons/ic_book_24x24.svg">Мои
+                    задания</a>
+                <a href="../discover/index.html" class="sidebar-tab"><img
+                        src="./resources/icons/ic_global_24x24.svg">Предметы</a>
+                <a href="/index.html" class="sidebar-tab selected"><img src="./resources/icons/ic_vault_24x24.svg">Банк</a>
+            </div>
+            <div class="tabs-group">
+                <h3>Другое</h3>
+                <div class="sidebar-tab"><img src="./resources/icons/ic_info_24x24.svg">Помощь</div>
+                <div class="sidebar-tab"><img src="./resources/icons/ic_settings_24x24.svg">Настройки</div>
+            </div>
+        </div>
+        <div class="vertical-container gap-24 match-parent" style="justify-content: start">
+            <div class="import-tasks-container item-shadow">
+                <div class="vertical-container">
+                    <h1>Импорт задач</h1>
+                    <p>Загрузите файл .json</p>
+                    <div id="multi-button" class="multi-button-container" style="display: none;">
+                        <input type="button" id="send-button" class="send-button" value="Отправить"/>
+                        <div id="delete-button" class="delete-button"><img src="./resources/icons/ic_remove_24x24.svg"></div>
+                    </div>
+                    <div id="import-button" class="import-button">
+                        <label for="file-input">Загрузить</label>
+                        <input type="file" id="file-input" style="display: none;" accept=".json"/>
+                    </div>
+                </div>
+                <div class="divider"></div>
+                <div class="fields-grid">
+                    <div class="field-item-container" id="uid"><span class="tooltip"></span><img class="unload-field"
+                                                                                                 src="./resources/icons/ic_question_24x24.svg">UID
+                        задачи
+                    </div>
+                    <div class="field-item-container" id="task_num"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Номер задачи
+                    </div>
+                    <div class="field-item-container" id="task_subject"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Предмет задачи
+                    </div>
+                    <div class="field-item-container" id="task_types"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Типы задачи
+                    </div>
+                    <div class="field-item-container" id="fipi_uid"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Фипи UID
+                    </div>
+                    <div class="field-item-container" id="task_text"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Текст задачи
+                    </div>
+                    <div class="field-item-container" id="task_html"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">HTML задачи
+                    </div>
+                    <div class="field-item-container" id="task_answer"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Ответ задачи
+                    </div>
+                    <div class="field-item-container" id="task_solution"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Решение задачи
+                    </div>
+                    <div class="field-item-container" id="task_hints"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Подсказки задачи
+                    </div>
+                    <div class="field-item-container" id="answer_type"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Тип ответа
+                    </div>
+                    <div class="field-item-container" id="task_group_key"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Код группы
+                    </div>
+                    <div class="field-item-container" id="task_group_label"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Имя группы
+                    </div>
+                    <div class="field-item-container" id="task_images"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">Картинки
+                    </div>
+                    <div class="field-item-container" id="task_images_svg"><span class="tooltip"></span><img
+                            class="unload-field" src="./resources/icons/ic_question_24x24.svg">SVG картинки
+                    </div>
+                </div>
+            </div>
+            <div class="task-container item-shadow hidden">
+                <div class="task-tabs-container">
+                    <div class="task-tab selected" id="task-description">Описание</div>
+                    <div class="task-tab" id="task-comments">Комментарии</div>
+                    <div class="task-tab" id="task-hints">Подсказки</div>
+                    <div class="task-tab" id="task-solutions">Решения</div>
+                </div>
+                <div class="horizontal-container gap-16">
+                    <div class="title-container">
+                        <h3>Тестовая часть</h3>
+                        <p>Простейшая вероятность</p>
+                    </div>
+                    <div class="difficulty medium">Средняя</div>
+                    <div class="duration">15 мин</div>
+                </div>
+                <div class="vertical-container gap-16" id="task-fragment"><div class="task-content-container"><p>Даны две стороны треугольника, которые равны 19 и 19. Высота, проведённая к большей из этих сторон, равна 13. Определите длину высоты, проведённой к меньшей из этих сторон треугольника.</p></div></div>
+                <div class="answer-input-container" id="answer-input-container" style="display: flex;">
+                    <input type="text" id="answer" class="answer-input-field">
+                    <input type="button" id="submit" class="answer-submit-button" value="Ответить">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script src="./scripts/bindScaleImage.js"></script>
+<script src="./scripts/importTasks.js"></script>
+<script src="./scripts/bindTaskNavigation.js"></script>
+</body>
+</html>
