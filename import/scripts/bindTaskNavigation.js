@@ -59,7 +59,7 @@ function getImageElement(task = {}) {
     const scaleButton = document.createElement("div");
     scaleButton.id = "scale-image-button";
     scaleButton.classList.add("scale-button", "item-shadow");
-    scaleButton.innerHTML = '<img src="/resources/icons/ic_search_24x24.svg">';
+    scaleButton.innerHTML = '<img src="./resources/icons/ic_search_24x24.svg">';
     scaleButton.onclick = scaleHandler;
 
     imageContainer.appendChild(imageElement)
