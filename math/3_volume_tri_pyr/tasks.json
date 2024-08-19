@@ -1,0 +1,1162 @@
+[
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "U3F6MQSKJN.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "U3F6MQSKJN",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины L1, M1, N1, M правильной треугольной призмы LMNL1M1N1, при площади основания 2 и высоте 84.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины L1, M1, N1, M правильной треугольной призмы LMNL1M1N1, площадь основания которой равна 2, а боковое ребро равно 84.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 2 * 84 / 3 = 56.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "56",
+    "base_area": 2,
+    "height": 84,
+    "vertices": "L1, M1, N1, M",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "KV8C5EOCKF.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "KV8C5EOCKF",
+    "task_text": "Определите объём многогранника с вершинами G, H, I, G1 правильной треугольной призмы GHIG1H1I1, если площадь основания равна 9, а боковое ребро равно 24.",
+    "task_html": "<p>Рассчитайте объём многогранника, имеющего вершины G, H, I, G1 правильной треугольной призмы GHIG1H1I1, при площади основания 9 и высоте 24.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 9 * 24 / 3 = 72.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "72",
+    "base_area": 9,
+    "height": 24,
+    "vertices": "G, H, I, G1",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "FHHPT2NF7V.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">X</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Y</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Z</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">X1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Y1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Z1</text>\n</svg>\n"
+    ],
+    "uid": "FHHPT2NF7V",
+    "task_text": "Определите объём многогранника с вершинами X, Y, Z, X1 правильной треугольной призмы XYZX1Y1Z1, если площадь основания равна 8, а боковое ребро равно 72.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины X, Y, Z, X1 правильной треугольной призмы XYZX1Y1Z1, площадь основания которой равна 8, а боковое ребро равно 72.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 8 * 72 / 3 = 192.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "192",
+    "base_area": 8,
+    "height": 72,
+    "vertices": "X, Y, Z, X1",
+    "base_labels": "XYZX1Y1Z1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "BXS4CI728E.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "BXS4CI728E",
+    "task_text": "Вычислите объём многогранника, образованного вершинами G1, H1, I1, G правильной треугольной призмы GHIG1H1I1, с площадью основания 2 и высотой 93.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины G1, H1, I1, G правильной треугольной призмы GHIG1H1I1, площадь основания которой равна 2, а боковое ребро равно 93.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 2 * 93 / 3 = 62.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "62",
+    "base_area": 2,
+    "height": 93,
+    "vertices": "G1, H1, I1, G",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "D23BQRBE08.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">X</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Y</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Z</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">X1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Y1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Z1</text>\n</svg>\n"
+    ],
+    "uid": "D23BQRBE08",
+    "task_text": "Найдите объём многогранника, вершинами которого являются вершины X, Y, Z, X1 правильной треугольной призмы XYZX1Y1Z1, площадь основания которой равна 12, а боковое ребро равно 43.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины X, Y, Z, X1 правильной треугольной призмы XYZX1Y1Z1, площадь основания которой равна 12, а боковое ребро равно 43.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 12 * 43 / 3 = 172.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "172",
+    "base_area": 12,
+    "height": 43,
+    "vertices": "X, Y, Z, X1",
+    "base_labels": "XYZX1Y1Z1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "JYJ2IUDEZL.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C1</text>\n</svg>\n"
+    ],
+    "uid": "JYJ2IUDEZL",
+    "task_text": "Определите объём многогранника с вершинами A1, B1, C1, A правильной треугольной призмы ABCA1B1C1, если площадь основания равна 11, а боковое ребро равно 87.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами A1, B1, C1, A правильной треугольной призмы ABCA1B1C1, при площади основания 11 и боковом ребре 87.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 11 * 87 / 3 = 319.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "319",
+    "base_area": 11,
+    "height": 87,
+    "vertices": "A1, B1, C1, A",
+    "base_labels": "ABCA1B1C1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "27UP6XDHV0.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"70,220 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"70,220 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"70,220 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "27UP6XDHV0",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины G1, H1, I1, I правильной треугольной призмы GHIG1H1I1, при площади основания 2 и высоте 42.",
+    "task_html": "<p>Определите объём многогранника с вершинами G1, H1, I1, I правильной треугольной призмы GHIG1H1I1, если площадь основания равна 2, а боковое ребро равно 42.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 2 * 42 / 3 = 28.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "28",
+    "base_area": 2,
+    "height": 42,
+    "vertices": "G1, H1, I1, I",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "65DHKI6WHH.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R1</text>\n</svg>\n"
+    ],
+    "uid": "65DHKI6WHH",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины P1, Q1, R1, P правильной треугольной призмы PQRP1Q1R1, при площади основания 9 и высоте 68.",
+    "task_html": "<p>Рассчитайте объём многогранника, имеющего вершины P1, Q1, R1, P правильной треугольной призмы PQRP1Q1R1, при площади основания 9 и высоте 68.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 9 * 68 / 3 = 204.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "204",
+    "base_area": 9,
+    "height": 68,
+    "vertices": "P1, Q1, R1, P",
+    "base_labels": "PQRP1Q1R1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "AY4GFKARSJ.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "AY4GFKARSJ",
+    "task_text": "Найдите объём многогранника, образованного вершинами L1, M1, N1, L правильной треугольной призмы LMNL1M1N1, при площади основания 3 и боковом ребре 96.",
+    "task_html": "<p>Определите объём многогранника с вершинами L1, M1, N1, L правильной треугольной призмы LMNL1M1N1, если площадь основания равна 3, а боковое ребро равно 96.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 3 * 96 / 3 = 96.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "96",
+    "base_area": 3,
+    "height": 96,
+    "vertices": "L1, M1, N1, L",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "HCZXM7A8V9.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R1</text>\n</svg>\n"
+    ],
+    "uid": "HCZXM7A8V9",
+    "task_text": "Найдите объём многогранника, образованного вершинами P1, Q1, R1, Q правильной треугольной призмы PQRP1Q1R1, при площади основания 18 и боковом ребре 26.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами P1, Q1, R1, Q правильной треугольной призмы PQRP1Q1R1, при площади основания 18 и боковом ребре 26.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 18 * 26 / 3 = 156.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "156",
+    "base_area": 18,
+    "height": 26,
+    "vertices": "P1, Q1, R1, Q",
+    "base_labels": "PQRP1Q1R1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "0P4E9VRE2V.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "0P4E9VRE2V",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины G1, H1, I1, H правильной треугольной призмы GHIG1H1I1, при площади основания 3 и высоте 40.",
+    "task_html": "<p>Вычислите объём многогранника, образованного вершинами G1, H1, I1, H правильной треугольной призмы GHIG1H1I1, с площадью основания 3 и высотой 40.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 3 * 40 / 3 = 40.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "40",
+    "base_area": 3,
+    "height": 40,
+    "vertices": "G1, H1, I1, H",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "4AXWMW5O3Y.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "4AXWMW5O3Y",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины L1, M1, N1, M правильной треугольной призмы LMNL1M1N1, при площади основания 3 и высоте 63.",
+    "task_html": "<p>Вычислите объём многогранника, образованного вершинами L1, M1, N1, M правильной треугольной призмы LMNL1M1N1, с площадью основания 3 и высотой 63.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 3 * 63 / 3 = 63.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "63",
+    "base_area": 3,
+    "height": 63,
+    "vertices": "L1, M1, N1, M",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "Y6OK2OXH1J.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "Y6OK2OXH1J",
+    "task_text": "Определите объём многогранника с вершинами L, M, N, L1 правильной треугольной призмы LMNL1M1N1, если площадь основания равна 3, а боковое ребро равно 72.",
+    "task_html": "<p>Вычислите объём многогранника, образованного вершинами L, M, N, L1 правильной треугольной призмы LMNL1M1N1, с площадью основания 3 и высотой 72.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 3 * 72 / 3 = 72.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "72",
+    "base_area": 3,
+    "height": 72,
+    "vertices": "L, M, N, L1",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "MGQ3ON6J6A.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "MGQ3ON6J6A",
+    "task_text": "Вычислите объём многогранника, образованного вершинами G, H, I, H1 правильной треугольной призмы GHIG1H1I1, с площадью основания 16 и высотой 81.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины G, H, I, H1 правильной треугольной призмы GHIG1H1I1, площадь основания которой равна 16, а боковое ребро равно 81.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 16 * 81 / 3 = 432.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "432",
+    "base_area": 16,
+    "height": 81,
+    "vertices": "G, H, I, H1",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "36EEB1YZTN.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "36EEB1YZTN",
+    "task_text": "Вычислите объём многогранника, образованного вершинами G, H, I, H1 правильной треугольной призмы GHIG1H1I1, с площадью основания 12 и высотой 19.",
+    "task_html": "<p>Рассчитайте объём многогранника, имеющего вершины G, H, I, H1 правильной треугольной призмы GHIG1H1I1, при площади основания 12 и высоте 19.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 12 * 19 / 3 = 76.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "76",
+    "base_area": 12,
+    "height": 19,
+    "vertices": "G, H, I, H1",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "0JHL1N1JRR.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "0JHL1N1JRR",
+    "task_text": "Найдите объём многогранника, образованного вершинами L1, M1, N1, L правильной треугольной призмы LMNL1M1N1, при площади основания 3 и боковом ребре 10.",
+    "task_html": "<p>Рассчитайте объём многогранника, имеющего вершины L1, M1, N1, L правильной треугольной призмы LMNL1M1N1, при площади основания 3 и высоте 10.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 3 * 10 / 3 = 10.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "10",
+    "base_area": 3,
+    "height": 10,
+    "vertices": "L1, M1, N1, L",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "L7I7AU9KDB.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "L7I7AU9KDB",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины G, H, I, H1 правильной треугольной призмы GHIG1H1I1, при площади основания 17 и высоте 9.",
+    "task_html": "<p>Рассчитайте объём многогранника, имеющего вершины G, H, I, H1 правильной треугольной призмы GHIG1H1I1, при площади основания 17 и высоте 9.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 17 * 9 / 3 = 51.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "51",
+    "base_area": 17,
+    "height": 9,
+    "vertices": "G, H, I, H1",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "HB4T6CTHUF.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "HB4T6CTHUF",
+    "task_text": "Вычислите объём многогранника, образованного вершинами L1, M1, N1, L правильной треугольной призмы LMNL1M1N1, с площадью основания 7 и высотой 69.",
+    "task_html": "<p>Определите объём многогранника с вершинами L1, M1, N1, L правильной треугольной призмы LMNL1M1N1, если площадь основания равна 7, а боковое ребро равно 69.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 7 * 69 / 3 = 161.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "161",
+    "base_area": 7,
+    "height": 69,
+    "vertices": "L1, M1, N1, L",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "XLO861P6F4.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "XLO861P6F4",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины G1, H1, I1, H правильной треугольной призмы GHIG1H1I1, при площади основания 18 и высоте 27.",
+    "task_html": "<p>Рассчитайте объём многогранника, имеющего вершины G1, H1, I1, H правильной треугольной призмы GHIG1H1I1, при площади основания 18 и высоте 27.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 18 * 27 / 3 = 162.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "162",
+    "base_area": 18,
+    "height": 27,
+    "vertices": "G1, H1, I1, H",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "OIW40N2LX0.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R1</text>\n</svg>\n"
+    ],
+    "uid": "OIW40N2LX0",
+    "task_text": "Найдите объём многогранника, образованного вершинами P, Q, R, P1 правильной треугольной призмы PQRP1Q1R1, при площади основания 3 и боковом ребре 95.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины P, Q, R, P1 правильной треугольной призмы PQRP1Q1R1, площадь основания которой равна 3, а боковое ребро равно 95.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 3 * 95 / 3 = 95.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "95",
+    "base_area": 3,
+    "height": 95,
+    "vertices": "P, Q, R, P1",
+    "base_labels": "PQRP1Q1R1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "13AYCBZI1V.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C1</text>\n</svg>\n"
+    ],
+    "uid": "13AYCBZI1V",
+    "task_text": "Найдите объём многогранника, образованного вершинами A, B, C, A1 правильной треугольной призмы ABCA1B1C1, при площади основания 5 и боковом ребре 42.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами A, B, C, A1 правильной треугольной призмы ABCA1B1C1, при площади основания 5 и боковом ребре 42.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 5 * 42 / 3 = 70.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "70",
+    "base_area": 5,
+    "height": 42,
+    "vertices": "A, B, C, A1",
+    "base_labels": "ABCA1B1C1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "7YTUVVEF1D.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "7YTUVVEF1D",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины L1, M1, N1, M правильной треугольной призмы LMNL1M1N1, при площади основания 18 и высоте 11.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины L1, M1, N1, M правильной треугольной призмы LMNL1M1N1, площадь основания которой равна 18, а боковое ребро равно 11.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 18 * 11 / 3 = 66.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "66",
+    "base_area": 18,
+    "height": 11,
+    "vertices": "L1, M1, N1, M",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "Z0Y5WKTOM9.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "Z0Y5WKTOM9",
+    "task_text": "Найдите объём многогранника, образованного вершинами G1, H1, I1, H правильной треугольной призмы GHIG1H1I1, при площади основания 6 и боковом ребре 64.",
+    "task_html": "<p>Вычислите объём многогранника, образованного вершинами G1, H1, I1, H правильной треугольной призмы GHIG1H1I1, с площадью основания 6 и высотой 64.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 6 * 64 / 3 = 128.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "128",
+    "base_area": 6,
+    "height": 64,
+    "vertices": "G1, H1, I1, H",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "VWN3F9TZEC.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "VWN3F9TZEC",
+    "task_text": "Найдите объём многогранника, вершинами которого являются вершины L, M, N, L1 правильной треугольной призмы LMNL1M1N1, площадь основания которой равна 18, а боковое ребро равно 69.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины L, M, N, L1 правильной треугольной призмы LMNL1M1N1, площадь основания которой равна 18, а боковое ребро равно 69.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 18 * 69 / 3 = 414.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "414",
+    "base_area": 18,
+    "height": 69,
+    "vertices": "L, M, N, L1",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "CTPJWWID8J.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "CTPJWWID8J",
+    "task_text": "Найдите объём многогранника, образованного вершинами G, H, I, H1 правильной треугольной призмы GHIG1H1I1, при площади основания 13 и боковом ребре 72.",
+    "task_html": "<p>Вычислите объём многогранника, образованного вершинами G, H, I, H1 правильной треугольной призмы GHIG1H1I1, с площадью основания 13 и высотой 72.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 13 * 72 / 3 = 312.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "312",
+    "base_area": 13,
+    "height": 72,
+    "vertices": "G, H, I, H1",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "7S7EBZY5O6.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R1</text>\n</svg>\n"
+    ],
+    "uid": "7S7EBZY5O6",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины P1, Q1, R1, Q правильной треугольной призмы PQRP1Q1R1, при площади основания 4 и высоте 54.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами P1, Q1, R1, Q правильной треугольной призмы PQRP1Q1R1, при площади основания 4 и боковом ребре 54.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 4 * 54 / 3 = 72.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "72",
+    "base_area": 4,
+    "height": 54,
+    "vertices": "P1, Q1, R1, Q",
+    "base_labels": "PQRP1Q1R1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "Z1LMRT71FG.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C1</text>\n</svg>\n"
+    ],
+    "uid": "Z1LMRT71FG",
+    "task_text": "Найдите объём многогранника, образованного вершинами A, B, C, B1 правильной треугольной призмы ABCA1B1C1, при площади основания 18 и боковом ребре 50.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами A, B, C, B1 правильной треугольной призмы ABCA1B1C1, при площади основания 18 и боковом ребре 50.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 18 * 50 / 3 = 300.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "300",
+    "base_area": 18,
+    "height": 50,
+    "vertices": "A, B, C, B1",
+    "base_labels": "ABCA1B1C1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "EP7MGNGXIN.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R1</text>\n</svg>\n"
+    ],
+    "uid": "EP7MGNGXIN",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины P, Q, R, R1 правильной треугольной призмы PQRP1Q1R1, при площади основания 12 и высоте 85.",
+    "task_html": "<p>Определите объём многогранника с вершинами P, Q, R, R1 правильной треугольной призмы PQRP1Q1R1, если площадь основания равна 12, а боковое ребро равно 85.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 12 * 85 / 3 = 340.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "340",
+    "base_area": 12,
+    "height": 85,
+    "vertices": "P, Q, R, R1",
+    "base_labels": "PQRP1Q1R1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "Y4N1XDKBXO.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C1</text>\n</svg>\n"
+    ],
+    "uid": "Y4N1XDKBXO",
+    "task_text": "Вычислите объём многогранника, образованного вершинами A1, B1, C1, A правильной треугольной призмы ABCA1B1C1, с площадью основания 2 и высотой 51.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины A1, B1, C1, A правильной треугольной призмы ABCA1B1C1, площадь основания которой равна 2, а боковое ребро равно 51.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 2 * 51 / 3 = 34.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "34",
+    "base_area": 2,
+    "height": 51,
+    "vertices": "A1, B1, C1, A",
+    "base_labels": "ABCA1B1C1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "QKOHZBM706.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "QKOHZBM706",
+    "task_text": "Найдите объём многогранника, образованного вершинами L, M, N, N1 правильной треугольной призмы LMNL1M1N1, при площади основания 3 и боковом ребре 8.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами L, M, N, N1 правильной треугольной призмы LMNL1M1N1, при площади основания 3 и боковом ребре 8.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 3 * 8 / 3 = 8.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "8",
+    "base_area": 3,
+    "height": 8,
+    "vertices": "L, M, N, N1",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "PW4J66FX95.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "PW4J66FX95",
+    "task_text": "Найдите объём многогранника, образованного вершинами L1, M1, N1, L правильной треугольной призмы LMNL1M1N1, при площади основания 18 и боковом ребре 36.",
+    "task_html": "<p>Определите объём многогранника с вершинами L1, M1, N1, L правильной треугольной призмы LMNL1M1N1, если площадь основания равна 18, а боковое ребро равно 36.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 18 * 36 / 3 = 216.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "216",
+    "base_area": 18,
+    "height": 36,
+    "vertices": "L1, M1, N1, L",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "GGPCMNDFA6.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"190,140 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R1</text>\n</svg>\n"
+    ],
+    "uid": "GGPCMNDFA6",
+    "task_text": "Определите объём многогранника с вершинами P1, Q1, R1, Q правильной треугольной призмы PQRP1Q1R1, если площадь основания равна 6, а боковое ребро равно 68.",
+    "task_html": "<p>Найдите объём многогранника, вершинами которого являются вершины P1, Q1, R1, Q правильной треугольной призмы PQRP1Q1R1, площадь основания которой равна 6, а боковое ребро равно 68.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 6 * 68 / 3 = 136.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "136",
+    "base_area": 6,
+    "height": 68,
+    "vertices": "P1, Q1, R1, Q",
+    "base_labels": "PQRP1Q1R1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "PM7ETYE58C.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "PM7ETYE58C",
+    "task_text": "Найдите объём многогранника, образованного вершинами G1, H1, I1, G правильной треугольной призмы GHIG1H1I1, при площади основания 2 и боковом ребре 18.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами G1, H1, I1, G правильной треугольной призмы GHIG1H1I1, при площади основания 2 и боковом ребре 18.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 2 * 18 / 3 = 12.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "12",
+    "base_area": 2,
+    "height": 18,
+    "vertices": "G1, H1, I1, G",
+    "base_labels": "GHIG1H1I1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "9JN8LN4WMW.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R1</text>\n</svg>\n"
+    ],
+    "uid": "9JN8LN4WMW",
+    "task_text": "Вычислите объём многогранника, образованного вершинами P, Q, R, P1 правильной треугольной призмы PQRP1Q1R1, с площадью основания 16 и высотой 90.",
+    "task_html": "<p>Определите объём многогранника с вершинами P, Q, R, P1 правильной треугольной призмы PQRP1Q1R1, если площадь основания равна 16, а боковое ребро равно 90.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 16 * 90 / 3 = 480.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "480",
+    "base_area": 16,
+    "height": 90,
+    "vertices": "P, Q, R, P1",
+    "base_labels": "PQRP1Q1R1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "4NNABX95WU.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">L1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">M1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">N1</text>\n</svg>\n"
+    ],
+    "uid": "4NNABX95WU",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины L, M, N, N1 правильной треугольной призмы LMNL1M1N1, при площади основания 18 и высоте 80.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами L, M, N, N1 правильной треугольной призмы LMNL1M1N1, при площади основания 18 и боковом ребре 80.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 18 * 80 / 3 = 480.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "480",
+    "base_area": 18,
+    "height": 80,
+    "vertices": "L, M, N, N1",
+    "base_labels": "LMNL1M1N1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "391THS5SFA.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 50,50 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 50,50 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,50 190,40 70,120\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"70\" y2=\"120\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"150\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">P1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Q1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">R1</text>\n</svg>\n"
+    ],
+    "uid": "391THS5SFA",
+    "task_text": "Найдите объём многогранника, вершинами которого являются вершины P1, Q1, R1, P правильной треугольной призмы PQRP1Q1R1, площадь основания которой равна 15, а боковое ребро равно 64.",
+    "task_html": "<p>Рассчитайте объём многогранника, имеющего вершины P1, Q1, R1, P правильной треугольной призмы PQRP1Q1R1, при площади основания 15 и высоте 64.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 15 * 64 / 3 = 320.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "320",
+    "base_area": 15,
+    "height": 64,
+    "vertices": "P1, Q1, R1, P",
+    "base_labels": "PQRP1Q1R1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "MIL3HX6YI9.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">X</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Y</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Z</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">X1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Y1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">Z1</text>\n</svg>\n"
+    ],
+    "uid": "MIL3HX6YI9",
+    "task_text": "Вычислите объём многогранника, образованного вершинами X, Y, Z, X1 правильной треугольной призмы XYZX1Y1Z1, с площадью основания 6 и высотой 10.",
+    "task_html": "<p>Вычислите объём многогранника, образованного вершинами X, Y, Z, X1 правильной треугольной призмы XYZX1Y1Z1, с площадью основания 6 и высотой 10.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 6 * 10 / 3 = 20.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "20",
+    "base_area": 6,
+    "height": 10,
+    "vertices": "X, Y, Z, X1",
+    "base_labels": "XYZX1Y1Z1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "13CJPSFCE7.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C1</text>\n</svg>\n"
+    ],
+    "uid": "13CJPSFCE7",
+    "task_text": "Вычислите объём многогранника, образованного вершинами A, B, C, B1 правильной треугольной призмы ABCA1B1C1, с площадью основания 6 и высотой 87.",
+    "task_html": "<p>Найдите объём многогранника, образованного вершинами A, B, C, B1 правильной треугольной призмы ABCA1B1C1, при площади основания 6 и боковом ребре 87.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 6 * 87 / 3 = 174.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "174",
+    "base_area": 6,
+    "height": 87,
+    "vertices": "A, B, C, B1",
+    "base_labels": "ABCA1B1C1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "BL05S8266C.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 50,50\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">A1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">B1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">C1</text>\n</svg>\n"
+    ],
+    "uid": "BL05S8266C",
+    "task_text": "Определите объём многогранника с вершинами A, B, C, A1 правильной треугольной призмы ABCA1B1C1, если площадь основания равна 9, а боковое ребро равно 89.",
+    "task_html": "<p>Определите объём многогранника с вершинами A, B, C, A1 правильной треугольной призмы ABCA1B1C1, если площадь основания равна 9, а боковое ребро равно 89.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 9 * 89 / 3 = 267.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "267",
+    "base_area": 9,
+    "height": 89,
+    "vertices": "A, B, C, A1",
+    "base_labels": "ABCA1B1C1"
+  },
+  {
+    "task_num": 3,
+    "task_subject": "math",
+    "task_types": [
+      "7.3 Многогранники"
+    ],
+    "task_images": [
+      "MJ7A6CRWTX.svg"
+    ],
+    "task_images_svg": [
+      "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"250\" height=\"250\">\n  <line x1=\"50\" y1=\"150\" x2=\"50\" y2=\"50\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"70\" y2=\"120\" stroke=\"#646464\" stroke-dasharray=\"5,5\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"50\" y2=\"150\" stroke=\"#646464\"/>\n  <line x1=\"50\" y1=\"50\" x2=\"190\" y2=\"40\" stroke=\"#646464\"/>\n  <line x1=\"190\" y1=\"40\" x2=\"70\" y2=\"120\" stroke=\"#646464\"/>\n  <line x1=\"70\" y1=\"120\" x2=\"50\" y2=\"50\" stroke=\"#646464\"/>\n  <polygon points=\"50,150 190,140 70,220\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 190,140 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"50,150 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <polygon points=\"190,140 70,220 190,40\" fill=\"#9254de\" fill-opacity=\"0.05\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"70\" y2=\"220\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"70\" y1=\"220\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"50\" y1=\"150\" x2=\"190\" y2=\"140\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <line x1=\"190\" y1=\"140\" x2=\"190\" y2=\"40\" stroke=\"#9254de\" stroke-width=\"2\"/>\n  <text x=\"38\" y=\"158\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G</text>\n  <text x=\"198\" y=\"148\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H</text>\n  <text x=\"58\" y=\"228\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I</text>\n  <text x=\"38\" y=\"42\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">G1</text>\n  <text x=\"198\" y=\"32\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">H1</text>\n  <text x=\"58\" y=\"112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"bold\" font-size=\"14\">I1</text>\n</svg>\n"
+    ],
+    "uid": "MJ7A6CRWTX",
+    "task_text": "Рассчитайте объём многогранника, имеющего вершины G, H, I, H1 правильной треугольной призмы GHIG1H1I1, при площади основания 14 и высоте 39.",
+    "task_html": "<p>Вычислите объём многогранника, образованного вершинами G, H, I, H1 правильной треугольной призмы GHIG1H1I1, с площадью основания 14 и высотой 39.</p>",
+    "task_solution": "Объём многогранника вычисляется по формуле V = S * h / 3. Подставляем значения: V = 14 * 39 / 3 = 182.",
+    "task_hints": [
+      "Используйте формулу объёма пирамиды V = S * h / 3."
+    ],
+    "answer_type": "short",
+    "task_group_key": "volume_tri_pyr",
+    "difficulty": "medium",
+    "fipi_uid": "BE03FA",
+    "answer": "182",
+    "base_area": 14,
+    "height": 39,
+    "vertices": "G, H, I, H1",
+    "base_labels": "GHIG1H1I1"
+  }
+]

@@ -1,0 +1,962 @@
+[
+    {
+        "uid": "CD0YS9JAGB",
+        "task_subject": "math",
+        "task_text": "Отрезки LB и AS — диаметры окружности с центром I. Угол LBA равен 46°. Найдите величину угла LIS. Ответ дайте в градусах.",
+        "task_html": "<p>Окружность с центром в точке I имеет диаметры LB и AS. Величина угла <math><mi>LBA</mi></math> составляет 46°. Определите величину угла <math><mi>LIS</mi></math>. Ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>LIS</mi></math> является смежным для угла <math><mi>LIA</mi></math>. В свою очередь угол <math><mi>LIA</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>LAB</mi></math>, а значет он в два раза больше него: <math><mi>LIA</mi></math>=<math><mi>46*2</mi></math>=92. Теперь остается найти угол <math><mi>LIS</mi></math> как смежный углу <math><mi>LIA</mi></math>. <math><mi>LIS</mi></math> = <math><mi>180-92</mi></math>=88</p>",
+        "task_answer": "88",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">I</text>\n  <circle cx=\"68.73844259267003\" cy=\"165.4763476518601\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"57.86274914823023\" y=\"160.4049285109717\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"184.88636910856866\" cy=\"60.89628488013662\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"180.97955125508278\" y=\"49.55006197294482\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">A</text>\n  <circle cx=\"431.26155740733\" cy=\"334.5236523481399\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"442.13725085176975\" y=\"344.66649062991667\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">B</text>\n  <circle cx=\"315.1136308914313\" cy=\"439.1037151198634\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"319.0204487449172\" y=\"461.79616093424704\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">S</text>\n  <line x1=\"431.26155740733\" y1=\"334.5236523481399\" x2=\"68.73844259267003\" y2=\"165.4763476518601\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"431.26155740733\" y1=\"334.5236523481399\" x2=\"184.88636910856866\" y2=\"60.89628488013662\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"184.88636910856866\" y1=\"60.89628488013662\" x2=\"315.1136308914313\" y2=\"439.1037151198634\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 404.0723237962305,321.8451044959189 Q 383.9984056054647,299.5507597315971 411.1876392165642,312.22930758381807\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 222.8107663889005,237.321452147779 Q 232.5778110226152,265.6870094157585 259.7670446337147,278.3655572679795\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "YQACHA5Y4Z",
+        "task_subject": "math",
+        "task_text": "Отрезки TO и EJ — диаметры окружности с центром V. Угол TOE равен 57°. Найдите величину угла TVJ. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке V отрезки TO и EJ являются диаметрами. Угол <math><mi>TOE</mi></math> равен 57°. Найдите угол <math><mi>TVJ</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>TVJ</mi></math> является смежным для угла <math><mi>TVE</mi></math>. В свою очередь угол <math><mi>TVE</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>TEO</mi></math>, а значет он в два раза больше него: <math><mi>TVE</mi></math>=<math><mi>57*2</mi></math>=114. Теперь остается найти угол <math><mi>TVJ</mi></math> как смежный углу <math><mi>TVE</mi></math>. <math><mi>TVJ</mi></math> = <math><mi>180-114</mi></math>=66</p>",
+        "task_answer": "66",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"421.4334601404224\" cy=\"353.00761498201086\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"431.71946774884776\" y=\"365.36852877985217\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">T</text>\n  <circle cx=\"256.97989934050025\" cy=\"449.87816540381914\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"257.3986933009303\" y=\"473.86354525227745\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <circle cx=\"78.5665398595776\" cy=\"146.99238501798908\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"68.28053225115227\" y=\"140.81192811906843\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">O</text>\n  <circle cx=\"243.02010065949978\" cy=\"50.12183459618086\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"242.60130669906977\" y=\"38.129144671951714\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">J</text>\n  <line x1=\"78.5665398595776\" y1=\"146.99238501798908\" x2=\"421.4334601404224\" y2=\"353.00761498201086\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"78.5665398595776\" y1=\"146.99238501798908\" x2=\"256.97989934050025\" y2=\"449.87816540381914\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"256.97989934050025\" y1=\"449.87816540381914\" x2=\"243.02010065949978\" y2=\"50.12183459618086\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 104.28155888064097,162.44352726529073 Q 119.5077097694621,188.2924020785365 93.79269074839873,172.84125983123485\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 275.71501902106337,265.4511422473016 Q 274.66803411998836,235.46941743672875 248.95301509892496,220.01827518942713\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "C1W74D35ZU",
+        "task_subject": "math",
+        "task_text": "Отрезки EQ и LV — диаметры окружности с центром F. Угол EQL равен 48°. Найдите величину угла EFV. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром F проведены диаметры EQ и LV. Угол <math><mi>EQL</mi></math>, который является вписанным, равен 48°. Найдите угол <math><mi>EFV</mi></math>, который является центральным. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>EFV</mi></math> является смежным для угла <math><mi>EFL</mi></math>. В свою очередь угол <math><mi>EFL</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>ELQ</mi></math>, а значет он в два раза больше него: <math><mi>EFL</mi></math>=<math><mi>48*2</mi></math>=96. Теперь остается найти угол <math><mi>EFV</mi></math> как смежный углу <math><mi>EFL</mi></math>. <math><mi>EFV</mi></math> = <math><mi>180-96</mi></math>=84</p>",
+        "task_answer": "84",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"50.274093049085224\" cy=\"239.53280875141124\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.290538632030334\" y=\"238.9047772764959\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <circle cx=\"124.13592179003254\" cy=\"94.5708077086058\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"116.58407709743449\" y=\"85.24505617112214\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"449.7259069509148\" cy=\"260.46719124858885\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.7094613679697\" y=\"261.7232541984195\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Q</text>\n  <circle cx=\"375.8640782099675\" cy=\"405.42919229139414\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"383.4159229025655\" y=\"424.08069536636145\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <line x1=\"449.7259069509148\" y1=\"260.46719124858885\" x2=\"50.274093049085224\" y2=\"239.53280875141124\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"449.7259069509148\" y1=\"260.46719124858885\" x2=\"124.13592179003254\" y2=\"94.5708077086058\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"124.13592179003254\" y1=\"94.5708077086058\" x2=\"375.8640782099675\" y2=\"405.42919229139414\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 419.7670209082776,258.8971125613005 Q 393.03682518262656,245.2773975691141 422.9957112252638,246.84747625640244\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 220.0411139573628,248.42992131271168 Q 238.9207256888579,271.7443001564208 268.8796117314951,273.3143788437091\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "QDA6VCGJB5",
+        "task_subject": "math",
+        "task_text": "Отрезки TI и LE — диаметры окружности с центром U. Угол TIL равен 51°. Найдите величину угла TUE. Ответ дайте в градусах.",
+        "task_html": "<p>Окружность с центром в точке U имеет диаметры TI и LE. Величина угла <math><mi>TIL</mi></math> составляет 51°. Определите величину угла <math><mi>TUE</mi></math>. Ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>TUE</mi></math> является смежным для угла <math><mi>TUL</mi></math>. В свою очередь угол <math><mi>TUL</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>TLI</mi></math>, а значет он в два раза больше него: <math><mi>TUL</mi></math>=<math><mi>51*2</mi></math>=102. Теперь остается найти угол <math><mi>TUE</mi></math> как смежный углу <math><mi>TUL</mi></math>. <math><mi>TUE</mi></math> = <math><mi>180-102</mi></math>=78</p>",
+        "task_answer": "78",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">U</text>\n  <circle cx=\"50.03046096872174\" cy=\"253.49048128745673\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.032288626845045\" y=\"253.90933904195154\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">T</text>\n  <circle cx=\"121.44247806269212\" cy=\"96.79111137620438\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"113.72902674645364\" y=\"87.59857805877665\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"449.96953903127826\" cy=\"246.50951871254338\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.96771137315494\" y=\"246.30008983529598\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">I</text>\n  <circle cx=\"378.55752193730785\" cy=\"403.2088886237956\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"386.27097325354634\" y=\"421.5939552586511\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <line x1=\"449.96953903127826\" y1=\"246.50951871254338\" x2=\"50.03046096872174\" y2=\"253.49048128745673\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"449.96953903127826\" y1=\"246.50951871254338\" x2=\"121.44247806269212\" y2=\"96.79111137620438\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"121.44247806269212\" y1=\"96.79111137620438\" x2=\"378.55752193730785\" y2=\"403.2088886237956\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 419.9741081765865,247.03309090566188 Q 392.67527005029024,234.59229362597472 422.67070090498197,234.0687214328562\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 220.00456914530827,250.5235721931185 Q 239.28819743590444,273.50490548668785 269.2836282905962,272.9813332935693\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "P2K2M7SSD6",
+        "task_subject": "math",
+        "task_text": "Отрезки IY и DU — диаметры окружности с центром M. Угол IYD равен 49°. Найдите величину угла IMU. Ответ дайте в градусах.",
+        "task_html": "<p>Диаметры IY и DU пересекаются в центре окружности M. Вписанный угол <math><mi>IYD</mi></math> составляет 49°. Определите величину центрального угла <math><mi>IMU</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>IMU</mi></math> является смежным для угла <math><mi>IMD</mi></math>. В свою очередь угол <math><mi>IMD</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>IDY</mi></math>, а значет он в два раза больше него: <math><mi>IMD</mi></math>=<math><mi>49*2</mi></math>=98. Теперь остается найти угол <math><mi>IMU</mi></math> как смежный углу <math><mi>IMD</mi></math>. <math><mi>IMU</mi></math> = <math><mi>180-98</mi></math>=82</p>",
+        "task_answer": "82",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">M</text>\n  <circle cx=\"113.6003279875003\" cy=\"396.2707403238341\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"105.41634766675031\" y=\"413.8232291626942\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">I</text>\n  <circle cx=\"50.12183459618086\" cy=\"243.02010065949978\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.129144671951714\" y=\"242.60130669906977\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">D</text>\n  <circle cx=\"386.39967201249965\" cy=\"103.7292596761659\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"394.58365233324963\" y=\"94.95301525673585\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Y</text>\n  <circle cx=\"449.87816540381914\" cy=\"256.97989934050014\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.87085532804826\" y=\"257.81748726136016\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">U</text>\n  <line x1=\"386.39967201249965\" y1=\"103.7292596761659\" x2=\"113.6003279875003\" y2=\"396.2707403238341\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"386.39967201249965\" y1=\"103.7292596761659\" x2=\"50.12183459618086\" y2=\"243.02010065949978\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"50.12183459618086\" y1=\"243.02010065949978\" x2=\"449.87816540381914\" y2=\"256.97989934050014\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 365.9397212106247,125.669870724741 Q 338.22333523528613,137.1503736956937 358.68328603716105,115.2097626471186\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 229.54004919812505,271.94061104857514 Q 259.5217740086979,272.98759594965014 279.98172481057287,251.046984901075\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "R7X7DNTEH1",
+        "task_subject": "math",
+        "task_text": "Отрезки LO и VN — диаметры окружности с центром Z. Угол LOV равен 51°. Найдите величину угла LZN. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке Z отрезки LO и VN являются диаметрами. Угол <math><mi>LOV</mi></math> равен 51°. Найдите угол <math><mi>LZN</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>LZN</mi></math> является смежным для угла <math><mi>LZV</mi></math>. В свою очередь угол <math><mi>LZV</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>LVO</mi></math>, а значет он в два раза больше него: <math><mi>LZV</mi></math>=<math><mi>51*2</mi></math>=102. Теперь остается найти угол <math><mi>LZN</mi></math> как смежный углу <math><mi>LZV</mi></math>. <math><mi>LZN</mi></math> = <math><mi>180-102</mi></math>=78</p>",
+        "task_answer": "78",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Z</text>\n  <circle cx=\"108.57864376269046\" cy=\"391.4213562373095\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"100.0933623884519\" y=\"408.3919189857867\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"51.09562092634533\" cy=\"229.09430734646926\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"39.161358181926055\" y=\"227.83996578725743\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"391.4213562373095\" cy=\"108.57864376269052\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"399.9066376115481\" y=\"100.09336238845195\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">O</text>\n  <circle cx=\"448.9043790736547\" cy=\"270.9056926535307\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"460.838641818074\" y=\"273.4143757719544\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <line x1=\"391.4213562373095\" y1=\"108.57864376269052\" x2=\"108.57864376269046\" y2=\"391.4213562373095\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"391.4213562373095\" y1=\"108.57864376269052\" x2=\"51.09562092634533\" y2=\"229.09430734646926\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"51.09562092634533\" y1=\"229.09430734646926\" x2=\"448.9043790736547\" y2=\"270.9056926535307\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 370.2081528017131,129.79184719828694 Q 341.92890806894775,139.80605297530008 363.1421115045442,118.59284953970364\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 228.78679656440357,271.2132034355964 Q 258.6224534254518,274.34905733362604 279.8356568610482,253.1358538980296\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "38R5Z61WI7",
+        "task_subject": "math",
+        "task_text": "Отрезки YE и WQ — диаметры окружности с центром S. Угол YEW равен 43°. Найдите величину угла YSQ. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке S отрезки YE и WQ являются диаметрами. Угол <math><mi>YEW</mi></math> равен 43°. Найдите угол <math><mi>YSQ</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>YSQ</mi></math> является смежным для угла <math><mi>YSW</mi></math>. В свою очередь угол <math><mi>YSW</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>YWE</mi></math>, а значет он в два раза больше него: <math><mi>YSW</mi></math>=<math><mi>43*2</mi></math>=86. Теперь остается найти угол <math><mi>YSQ</mi></math> как смежный углу <math><mi>YSW</mi></math>. <math><mi>YSQ</mi></math> = <math><mi>180-86</mi></math>=94</p>",
+        "task_answer": "94",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">S</text>\n  <circle cx=\"449.51281005196483\" cy=\"236.04870525117497\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.48357865508274\" y=\"235.21162756624545\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Y</text>\n  <circle cx=\"405.4291922913941\" cy=\"375.8640782099676\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"414.75494382887774\" y=\"390.9677675951637\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">W</text>\n  <circle cx=\"50.487189948035166\" cy=\"263.9512947488252\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.516421344917276\" y=\"265.6254501186842\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <circle cx=\"94.57080770860591\" cy=\"124.13592179003241\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"85.24505617112227\" y=\"116.58407709743436\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Q</text>\n  <line x1=\"50.487189948035166\" y1=\"263.9512947488252\" x2=\"449.51281005196483\" y2=\"236.04870525117497\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"50.487189948035166\" y1=\"263.9512947488252\" x2=\"405.4291922913941\" y2=\"375.8640782099676\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"405.4291922913941\" y1=\"375.8640782099676\" x2=\"94.57080770860591\" y2=\"124.13592179003241\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 80.4141114558299,261.85860053650146 Q 109.02561997827671,270.87977452162966 79.09869847048198,272.9724687339534\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 279.9269215077947,247.90730578767625 Q 256.6125426640856,229.0276940561811 226.6856211562909,231.12038826850485\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "HII00396KA",
+        "task_subject": "math",
+        "task_text": "Отрезки VA и EC — диаметры окружности с центром M. Угол VAE равен 58°. Найдите величину угла VMC. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке M отрезки VA и EC — это диаметры. Угол <math><mi>VAE</mi></math> равен 58°. Найдите угол <math><mi>VMC</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>VMC</mi></math> является смежным для угла <math><mi>VME</mi></math>. В свою очередь угол <math><mi>VME</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>VEA</mi></math>, а значет он в два раза больше него: <math><mi>VME</mi></math>=<math><mi>58*2</mi></math>=116. Теперь остается найти угол <math><mi>VMC</mi></math> как смежный углу <math><mi>VME</mi></math>. <math><mi>VMC</mi></math> = <math><mi>180-116</mi></math>=64</p>",
+        "task_answer": "64",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">M</text>\n  <circle cx=\"208.41766183644813\" cy=\"54.37047985323886\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"205.92272154663502\" y=\"42.632708644433194\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"393.8679600677302\" cy=\"111.06832590820056\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"402.500037671794\" y=\"102.7324254626926\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <circle cx=\"291.58233816355187\" cy=\"445.62952014676114\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"294.07727845336495\" y=\"469.1050625643725\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">A</text>\n  <circle cx=\"106.13203993226978\" cy=\"388.93167409179944\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"97.49996232820597\" y=\"405.6034749828154\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <line x1=\"291.58233816355187\" y1=\"445.62952014676114\" x2=\"208.41766183644813\" y2=\"54.37047985323886\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"291.58233816355187\" y1=\"445.62952014676114\" x2=\"393.8679600677302\" y2=\"111.06832590820056\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"393.8679600677302\" y1=\"111.06832590820056\" x2=\"106.13203993226978\" y2=\"388.93167409179944\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 285.34498743901906,416.285092124747 Q 294.11613858070115,387.5959494458559 300.35348930523395,416.94037746787006\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 243.76264927546723,220.65557197798583 Q 222.18245526530768,241.49532309175575 228.41980598984046,270.8397511137699\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "JX76IIUNQT",
+        "task_subject": "math",
+        "task_text": "Отрезки EK и DX — диаметры окружности с центром T. Угол EKD равен 56°. Найдите величину угла ETX. Ответ дайте в градусах.",
+        "task_html": "<p>Окружность с центром в точке T имеет диаметры EK и DX. Величина угла <math><mi>EKD</mi></math> составляет 56°. Определите величину угла <math><mi>ETX</mi></math>. Ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>ETX</mi></math> является смежным для угла <math><mi>ETD</mi></math>. В свою очередь угол <math><mi>ETD</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>EDK</mi></math>, а значет он в два раза больше него: <math><mi>ETD</mi></math>=<math><mi>56*2</mi></math>=112. Теперь остается найти угол <math><mi>ETX</mi></math> как смежный углу <math><mi>ETD</mi></math>. <math><mi>ETX</mi></math> = <math><mi>180-112</mi></math>=68</p>",
+        "task_answer": "68",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">T</text>\n  <circle cx=\"364.7152872702092\" cy=\"413.8304088577984\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"371.5982045064218\" y=\"433.49005792073416\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <circle cx=\"178.32641009093987\" cy=\"436.71608529944035\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"174.02599469639625\" y=\"459.1220155353732\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">D</text>\n  <circle cx=\"135.28471272979095\" cy=\"86.16959114220154\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"128.40179549357842\" y=\"76.33976661073363\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">K</text>\n  <circle cx=\"321.67358990906\" cy=\"63.28391470055962\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"325.97400530360363\" y=\"52.0809495825932\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">X</text>\n  <line x1=\"135.28471272979095\" y1=\"86.16959114220154\" x2=\"364.7152872702092\" y2=\"413.8304088577984\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"135.28471272979095\" y1=\"86.16959114220154\" x2=\"178.32641009093987\" y2=\"436.71608529944035\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"178.32641009093987\" y1=\"436.71608529944035\" x2=\"321.67358990906\" y2=\"63.28391470055962\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 152.49200582032233,110.74415247087131 Q 156.14808612247674,140.52053702011096 138.94079303194536,115.9459756914412\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 267.2072930905314,274.57456132866974 Q 277.9583315768904,246.56714853375368 260.751038486359,221.99258720508394\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "UMN7ISPP6W",
+        "task_subject": "math",
+        "task_text": "Отрезки NU и FK — диаметры окружности с центром X. Угол NUF равен 47°. Найдите величину угла NXK. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке X отрезки NU и FK являются диаметрами. Угол <math><mi>NUF</mi></math> равен 47°. Найдите угол <math><mi>NXK</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>NXK</mi></math> является смежным для угла <math><mi>NXF</mi></math>. В свою очередь угол <math><mi>NXF</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>NFU</mi></math>, а значет он в два раза больше него: <math><mi>NXF</mi></math>=<math><mi>47*2</mi></math>=94. Теперь остается найти угол <math><mi>NXK</mi></math> как смежный углу <math><mi>NXF</mi></math>. <math><mi>NXK</mi></math> = <math><mi>180-94</mi></math>=86</p>",
+        "task_answer": "86",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">X</text>\n  <circle cx=\"396.27074032383416\" cy=\"386.39967201249965\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"405.0469847432642\" y=\"402.7676326539996\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <circle cx=\"249.99999999999997\" cy=\"450.0\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"249.99999999999997\" y=\"474.0\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"103.7292596761659\" cy=\"113.60032798750032\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"94.95301525673585\" y=\"105.41634766675034\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">U</text>\n  <circle cx=\"250.00000000000006\" cy=\"50.0\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"250.00000000000006\" y=\"38.0\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">K</text>\n  <line x1=\"103.7292596761659\" y1=\"113.60032798750032\" x2=\"396.27074032383416\" y2=\"386.39967201249965\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"103.7292596761659\" y1=\"113.60032798750032\" x2=\"249.99999999999997\" y2=\"450.0\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"249.99999999999997\" y1=\"450.0\" x2=\"250.00000000000006\" y2=\"50.0\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 125.66987072474102,134.06027878937527 Q 137.6323427924984,161.572081020929 115.69173174392328,141.11213021905405\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 271.94061104857514,270.4599508018749 Q 271.94061104857514,240.45995080187492 250.0,220.0\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "D2XJYTAFR7",
+        "task_subject": "math",
+        "task_text": "Отрезки PL и QV — диаметры окружности с центром G. Угол PLQ равен 51°. Найдите величину угла PGV. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке G отрезки PL и QV являются диаметрами. Угол <math><mi>PLQ</mi></math> равен 51°. Найдите угол <math><mi>PGV</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>PGV</mi></math> является смежным для угла <math><mi>PGQ</mi></math>. В свою очередь угол <math><mi>PGQ</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>PQL</mi></math>, а значет он в два раза больше него: <math><mi>PGQ</mi></math>=<math><mi>51*2</mi></math>=102. Теперь остается найти угол <math><mi>PGV</mi></math> как смежный углу <math><mi>PGQ</mi></math>. <math><mi>PGV</mi></math> = <math><mi>180-102</mi></math>=78</p>",
+        "task_answer": "78",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">G</text>\n  <circle cx=\"84.19248548899168\" cy=\"138.16141930585061\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"74.24403461833118\" y=\"131.45110446420165\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">P</text>\n  <circle cx=\"232.56885145046834\" cy=\"50.76106038165088\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"231.52298253749643\" y=\"38.806724004549935\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Q</text>\n  <circle cx=\"415.8075145110084\" cy=\"361.8385806941493\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"425.7559653816689\" y=\"375.25921037744723\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"267.4311485495316\" cy=\"449.23893961834915\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"268.4770174625035\" y=\"473.14761237255107\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <line x1=\"415.8075145110084\" y1=\"361.8385806941493\" x2=\"84.19248548899168\" y2=\"138.16141930585061\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"415.8075145110084\" y1=\"361.8385806941493\" x2=\"232.56885145046834\" y2=\"50.76106038165088\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"232.56885145046834\" y1=\"50.76106038165088\" x2=\"267.4311485495316\" y2=\"449.23893961834915\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 390.9363873343571,345.0627935900269 Q 375.710236445536,319.21391877678116 400.58136362218727,335.98970588090356\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 225.12887282334876,233.2242128958776 Q 227.7435451057785,263.11005383863 252.61467228242975,279.8858409427524\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "51A62FPIVZ",
+        "task_subject": "math",
+        "task_text": "Отрезки MJ и VE — диаметры окружности с центром B. Угол MJV равен 36°. Найдите величину угла MBE. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром B проведены диаметры MJ и VE. Угол <math><mi>MJV</mi></math>, который является вписанным, равен 36°. Найдите угол <math><mi>MBE</mi></math>, который является центральным. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>MBE</mi></math> является смежным для угла <math><mi>MBV</mi></math>. В свою очередь угол <math><mi>MBV</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>MVJ</mi></math>, а значет он в два раза больше него: <math><mi>MBV</mi></math>=<math><mi>36*2</mi></math>=72. Теперь остается найти угол <math><mi>MBE</mi></math> как смежный углу <math><mi>MBV</mi></math>. <math><mi>MBE</mi></math> = <math><mi>180-72</mi></math>=108</p>",
+        "task_answer": "108",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">B</text>\n  <circle cx=\"208.41766183644813\" cy=\"54.37047985323886\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"205.92272154663502\" y=\"42.632708644433194\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">M</text>\n  <circle cx=\"331.34732861516005\" cy=\"67.29090847147984\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"336.22816833206963\" y=\"56.32836297976863\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"291.58233816355187\" cy=\"445.62952014676114\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"294.07727845336495\" y=\"469.1050625643725\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">J</text>\n  <circle cx=\"168.65267138483998\" cy=\"432.70909152852016\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"163.77183166793037\" y=\"454.6341825119426\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <line x1=\"291.58233816355187\" y1=\"445.62952014676114\" x2=\"208.41766183644813\" y2=\"54.37047985323886\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"291.58233816355187\" y1=\"445.62952014676114\" x2=\"331.34732861516005\" y2=\"67.29090847147984\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"331.34732861516005\" y1=\"67.29090847147984\" x2=\"168.65267138483998\" y2=\"432.70909152852016\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 285.34498743901906,416.285092124747 Q 288.4808413370487,386.4494352636988 294.7181920615815,415.7938632857129\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 243.76264927546723,220.65557197798583 Q 231.56054998319323,248.06193570726384 237.797900707726,277.40636372927804\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "27YYK3FXGS",
+        "task_subject": "math",
+        "task_text": "Отрезки IC и NK — диаметры окружности с центром L. Угол ICN равен 45°. Найдите величину угла ILK. Ответ дайте в градусах.",
+        "task_html": "<p>Диаметры IC и NK пересекаются в центре окружности L. Вписанный угол <math><mi>ICN</mi></math> составляет 45°. Определите величину центрального угла <math><mi>ILK</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>ILK</mi></math> является смежным для угла <math><mi>ILN</mi></math>. В свою очередь угол <math><mi>ILN</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>INC</mi></math>, а значет он в два раза больше него: <math><mi>ILN</mi></math>=<math><mi>45*2</mi></math>=90. Теперь остается найти угол <math><mi>ILK</mi></math> как смежный углу <math><mi>ILN</mi></math>. <math><mi>ILK</mi></math> = <math><mi>180-90</mi></math>=90</p>",
+        "task_answer": "90",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"50.0\" cy=\"249.99999999999997\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.0\" y=\"249.99999999999997\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">I</text>\n  <circle cx=\"108.57864376269052\" cy=\"108.57864376269049\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"100.09336238845195\" y=\"100.09336238845192\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <circle cx=\"450.0\" cy=\"250.00000000000006\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"462.0\" y=\"250.00000000000006\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"391.4213562373095\" cy=\"391.4213562373095\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"399.9066376115481\" y=\"408.3919189857867\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">K</text>\n  <line x1=\"450.0\" y1=\"250.00000000000006\" x2=\"50.0\" y2=\"249.99999999999997\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"450.0\" y1=\"250.00000000000006\" x2=\"108.57864376269052\" y2=\"108.57864376269049\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"108.57864376269052\" y1=\"108.57864376269049\" x2=\"391.4213562373095\" y2=\"391.4213562373095\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 420.0,250.00000000000006 Q 392.2836140246614,238.51949702904736 422.2836140246614,238.51949702904736\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 220.0,250.0 Q 241.21320343559643,271.2132034355964 271.2132034355964,271.2132034355964\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "8K2W2H65DN",
+        "task_subject": "math",
+        "task_text": "Отрезки WM и FK — диаметры окружности с центром A. Угол WMF равен 43°. Найдите величину угла WAK. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке A отрезки WM и FK являются диаметрами. Угол <math><mi>WMF</mi></math> равен 43°. Найдите угол <math><mi>WAK</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>WAK</mi></math> является смежным для угла <math><mi>WAF</mi></math>. В свою очередь угол <math><mi>WAF</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>WFM</mi></math>, а значет он в два раза больше него: <math><mi>WAF</mi></math>=<math><mi>43*2</mi></math>=86. Теперь остается найти угол <math><mi>WAK</mi></math> как смежный углу <math><mi>WAF</mi></math>. <math><mi>WAK</mi></math> = <math><mi>180-86</mi></math>=94</p>",
+        "task_answer": "94",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">A</text>\n  <circle cx=\"337.6742293578155\" cy=\"429.7588092598334\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"342.9346831192844\" y=\"451.3298663710134\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">W</text>\n  <circle cx=\"191.5256590554526\" cy=\"441.2609511926071\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"188.01719859877974\" y=\"464.2122653357199\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"162.32577064218452\" cy=\"70.24119074016659\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"157.06531688071559\" y=\"59.45566218457658\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">M</text>\n  <circle cx=\"308.47434094454746\" cy=\"58.73904880739295\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"311.9828014012203\" y=\"47.26339173583652\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">K</text>\n  <line x1=\"162.32577064218452\" y1=\"70.24119074016659\" x2=\"337.6742293578155\" y2=\"429.7588092598334\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"162.32577064218452\" y1=\"70.24119074016659\" x2=\"191.5256590554526\" y2=\"441.2609511926071\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"191.5256590554526\" y1=\"441.2609511926071\" x2=\"308.47434094454746\" y2=\"58.73904880739295\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 175.47690504585685,97.2050121291416 Q 177.83067791769219,127.11253214113543 164.67954351401985,100.14871075216043\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 263.1511344036723,276.963821388975 Q 271.92228554535444,248.27467871008395 258.77115114168214,221.31085732110893\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "QZ0J7CB7FB",
+        "task_subject": "math",
+        "task_text": "Отрезки TL и OB — диаметры окружности с центром F. Угол TLO равен 39°. Найдите величину угла TFB. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке F отрезки TL и OB — это диаметры. Угол <math><mi>TLO</mi></math> равен 39°. Найдите угол <math><mi>TFB</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>TFB</mi></math> является смежным для угла <math><mi>TFO</mi></math>. В свою очередь угол <math><mi>TFO</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>TOL</mi></math>, а значет он в два раза больше него: <math><mi>TFO</mi></math>=<math><mi>39*2</mi></math>=78. Теперь остается найти угол <math><mi>TFB</mi></math> как смежный углу <math><mi>TFO</mi></math>. <math><mi>TFB</mi></math> = <math><mi>180-78</mi></math>=102</p>",
+        "task_answer": "102",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"331.34732861515994\" cy=\"432.7090915285202\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"336.2281683320695\" y=\"454.63418251194264\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">T</text>\n  <circle cx=\"198.23619097949586\" cy=\"443.18516525781365\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"195.13036243826562\" y=\"466.3673850887513\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">O</text>\n  <circle cx=\"168.65267138483992\" cy=\"67.29090847147984\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"163.77183166793031\" y=\"56.32836297976863\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"301.76380902050414\" cy=\"56.81483474218635\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"304.8696375617344\" y=\"45.22372482671753\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">B</text>\n  <line x1=\"168.65267138483992\" y1=\"67.29090847147984\" x2=\"331.34732861515994\" y2=\"432.7090915285202\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"168.65267138483992\" y1=\"67.29090847147984\" x2=\"198.23619097949586\" y2=\"443.18516525781365\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"198.23619097949586\" y1=\"443.18516525781365\" x2=\"301.76380902050414\" y2=\"56.81483474218635\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 180.85477067711392,94.69727220075787 Q 183.20854354894928,124.6047922127517 171.00644425667528,97.19842848347368\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 262.202099292274,277.40636372927804 Q 269.9666706453496,248.42858894060598 257.7645713530756,221.02222521132794\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "Y6ZLSYKQU5",
+        "task_subject": "math",
+        "task_text": "Отрезки FG и RY — диаметры окружности с центром V. Угол FGR равен 33°. Найдите величину угла FVY. Ответ дайте в градусах.",
+        "task_html": "<p>Окружность с центром в точке V имеет диаметры FG и RY. Величина угла <math><mi>FGR</mi></math> составляет 33°. Определите величину угла <math><mi>FVY</mi></math>. Ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>FVY</mi></math> является смежным для угла <math><mi>FVR</mi></math>. В свою очередь угол <math><mi>FVR</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>FRG</mi></math>, а значет он в два раза больше него: <math><mi>FVR</mi></math>=<math><mi>33*2</mi></math>=66. Теперь остается найти угол <math><mi>FVY</mi></math> как смежный углу <math><mi>FVR</mi></math>. <math><mi>FVY</mi></math> = <math><mi>180-66</mi></math>=114</p>",
+        "task_answer": "114",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"328.14622569785473\" cy=\"65.89902930951192\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"332.834999239726\" y=\"54.85297106808263\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"415.8075145110083\" cy=\"138.16141930585061\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"425.75596538166883\" y=\"131.45110446420165\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">R</text>\n  <circle cx=\"171.85377430214524\" cy=\"434.10097069048805\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"167.16500076027395\" y=\"456.1930871733466\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">G</text>\n  <circle cx=\"84.19248548899165\" cy=\"361.83858069414936\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"74.24403461833116\" y=\"375.2592103774473\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Y</text>\n  <line x1=\"171.85377430214524\" y1=\"434.10097069048805\" x2=\"328.14622569785473\" y2=\"65.89902930951192\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"171.85377430214524\" y1=\"434.10097069048805\" x2=\"415.8075145110083\" y2=\"138.16141930585061\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"415.8075145110083\" y1=\"138.16141930585061\" x2=\"84.19248548899165\" y2=\"361.83858069414936\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 183.57570815682345,406.4858250869148 Q 202.65805476515638,383.3370875852832 190.93612091047817,410.95223318885644\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 261.7219338546782,222.3848543964268 Q 236.85080667802694,239.1606415005492 225.12887282334876,266.7757871041224\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "8CIONDT5F8",
+        "task_subject": "math",
+        "task_text": "Отрезки PC и HO — диаметры окружности с центром F. Угол PCH равен 52°. Найдите величину угла PFO. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром F проведены диаметры PC и HO. Угол <math><mi>PCH</mi></math>, который является вписанным, равен 52°. Найдите угол <math><mi>PFO</mi></math>, который является центральным. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>PFO</mi></math> является смежным для угла <math><mi>PFH</mi></math>. В свою очередь угол <math><mi>PFH</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>PHC</mi></math>, а значет он в два раза больше него: <math><mi>PFH</mi></math>=<math><mi>52*2</mi></math>=104. Теперь остается найти угол <math><mi>PFO</mi></math> как смежный углу <math><mi>PFH</mi></math>. <math><mi>PFO</mi></math> = <math><mi>180-104</mi></math>=76</p>",
+        "task_answer": "76",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"215.27036446661393\" cy=\"446.9615506024416\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"213.18658633461075\" y=\"470.5969366747346\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">P</text>\n  <circle cx=\"73.41048142821464\" cy=\"343.8943125571782\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"62.81511031390752\" y=\"355.16163006403957\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">H</text>\n  <circle cx=\"284.7296355333861\" cy=\"53.038449397558395\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"286.81341366538925\" y=\"41.2207563614119\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"426.58951857178545\" cy=\"156.10568744282193\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"437.18488968609256\" y=\"150.47202868939124\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">O</text>\n  <line x1=\"284.7296355333861\" y1=\"53.038449397558395\" x2=\"215.27036446661393\" y2=\"446.9615506024416\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"284.7296355333861\" y1=\"53.038449397558395\" x2=\"73.41048142821464\" y2=\"343.8943125571782\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"73.41048142821464\" y1=\"343.8943125571782\" x2=\"426.58951857178545\" y2=\"156.10568744282193\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 279.5201902033782,82.58268198792464 Q 261.886632634604,106.85319181917306 267.09607796461194,77.30895922880681\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 244.79055466999208,279.5442325903662 Q 271.2789824557599,265.4600857067895 276.48842778576784,235.91585311642328\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "J9X0V3G0FJ",
+        "task_subject": "math",
+        "task_text": "Отрезки DR и ZJ — диаметры окружности с центром U. Угол DRZ равен 39°. Найдите величину угла DUJ. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке U отрезки DR и ZJ являются диаметрами. Угол <math><mi>DRZ</mi></math> равен 39°. Найдите угол <math><mi>DUJ</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>DUJ</mi></math> является смежным для угла <math><mi>DUZ</mi></math>. В свою очередь угол <math><mi>DUZ</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>DZR</mi></math>, а значет он в два раза больше него: <math><mi>DUZ</mi></math>=<math><mi>39*2</mi></math>=78. Теперь остается найти угол <math><mi>DUJ</mi></math> как смежный углу <math><mi>DUZ</mi></math>. <math><mi>DUJ</mi></math> = <math><mi>180-78</mi></math>=102</p>",
+        "task_answer": "102",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">U</text>\n  <circle cx=\"243.0201006594998\" cy=\"50.12183459618086\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"242.6013066990698\" y=\"38.129144671951714\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">D</text>\n  <circle cx=\"370.3630046304097\" cy=\"90.27289799054142\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"377.58478490823427\" y=\"80.68927186997391\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Z</text>\n  <circle cx=\"256.97989934050025\" cy=\"449.87816540381914\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"257.3986933009303\" y=\"473.86354525227745\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">R</text>\n  <circle cx=\"129.63699536959035\" cy=\"409.7271020094586\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"122.41521509176577\" y=\"428.8943542505936\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">J</text>\n  <line x1=\"256.97989934050025\" y1=\"449.87816540381914\" x2=\"243.0201006594998\" y2=\"50.12183459618086\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"256.97989934050025\" y1=\"449.87816540381914\" x2=\"370.3630046304097\" y2=\"90.27289799054142\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"370.3630046304097\" y1=\"90.27289799054142\" x2=\"129.63699536959035\" y2=\"409.7271020094586\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 255.93291443942522,419.89644059324627 Q 264.9540884245534,391.28493207079947 266.00107332562845,421.26665688137234\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 248.95301509892496,220.01827518942713 Q 230.89856440436353,243.9773404908459 231.94554930543856,273.9590653014188\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "POZ90BM797",
+        "task_subject": "math",
+        "task_text": "Отрезки KO и WI — диаметры окружности с центром E. Угол KOW равен 46°. Найдите величину угла KEI. Ответ дайте в градусах.",
+        "task_html": "<p>Диаметры KO и WI пересекаются в центре окружности E. Вписанный угол <math><mi>KOW</mi></math> составляет 46°. Определите величину центрального угла <math><mi>KEI</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>KEI</mi></math> является смежным для угла <math><mi>KEW</mi></math>. В свою очередь угол <math><mi>KEW</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>KWO</mi></math>, а значет он в два раза больше него: <math><mi>KEW</mi></math>=<math><mi>46*2</mi></math>=92. Теперь остается найти угол <math><mi>KEI</mi></math> как смежный углу <math><mi>KEW</mi></math>. <math><mi>KEI</mi></math> = <math><mi>180-92</mi></math>=88</p>",
+        "task_answer": "88",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <circle cx=\"449.87816540381914\" cy=\"243.02010065949975\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.87085532804826\" y=\"242.60130669906974\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">K</text>\n  <circle cx=\"393.86796006773017\" cy=\"388.93167409179955\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"402.50003767179396\" y=\"405.6034749828155\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">W</text>\n  <circle cx=\"50.12183459618086\" cy=\"256.9798993405\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.129144671951714\" y=\"257.81748726136004\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">O</text>\n  <circle cx=\"106.13203993226986\" cy=\"111.06832590820045\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"97.49996232820605\" y=\"102.73242546269248\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">I</text>\n  <line x1=\"50.12183459618086\" y1=\"256.9798993405\" x2=\"449.87816540381914\" y2=\"243.02010065949975\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"50.12183459618086\" y1=\"256.9798993405\" x2=\"393.86796006773017\" y2=\"388.93167409179955\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"393.86796006773017\" y1=\"388.93167409179955\" x2=\"106.13203993226986\" y2=\"111.06832590820045\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 80.10355940675373,255.93291443942502 Q 108.11097220166978,266.68395292578407 78.12924739109691,267.7309378268591\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 279.98172481057287,248.95301509892496 Q 258.40153080041335,228.11326398515502 228.41980598984048,229.16024888623008\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "4G5D16S2P8",
+        "task_subject": "math",
+        "task_text": "Отрезки CR и TI — диаметры окружности с центром N. Угол CRT равен 58°. Найдите величину угла CNI. Ответ дайте в градусах.",
+        "task_html": "<p>Окружность с центром в точке N имеет диаметры CR и TI. Величина угла <math><mi>CRT</mi></math> составляет 58°. Определите величину угла <math><mi>CNI</mi></math>. Ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>CNI</mi></math> является смежным для угла <math><mi>CNT</mi></math>. В свою очередь угол <math><mi>CNT</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>CTR</mi></math>, а значет он в два раза больше него: <math><mi>CNT</mi></math>=<math><mi>58*2</mi></math>=116. Теперь остается найти угол <math><mi>CNI</mi></math> как смежный углу <math><mi>CNT</mi></math>. <math><mi>CNI</mi></math> = <math><mi>180-116</mi></math>=64</p>",
+        "task_answer": "64",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <circle cx=\"65.89902930951192\" cy=\"171.85377430214524\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"54.85297106808263\" y=\"167.16500076027395\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"218.71310699195385\" cy=\"52.46233188097244\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"216.8358934114711\" y=\"40.61007179383079\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">T</text>\n  <circle cx=\"434.10097069048805\" cy=\"328.1462256978548\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"445.14702893191736\" y=\"337.52377278159736\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">R</text>\n  <circle cx=\"281.28689300804615\" cy=\"447.53766811902756\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"283.1641065885289\" y=\"471.24218829331085\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">I</text>\n  <line x1=\"434.10097069048805\" y1=\"328.1462256978548\" x2=\"65.89902930951192\" y2=\"171.85377430214524\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"434.10097069048805\" y1=\"328.1462256978548\" x2=\"218.71310699195385\" y2=\"52.46233188097244\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"218.71310699195385\" y1=\"52.46233188097244\" x2=\"281.28689300804615\" y2=\"447.53766811902756\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 406.4858250869148,316.42429184317655 Q 388.0159808271451,292.7839692349749 415.6311264307183,304.50590308965315\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 222.3848543964268,238.2780661453218 Q 227.07788834763372,267.9087163631759 254.69303395120693,279.6306502178541\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "Z8PZK5YC8A",
+        "task_subject": "math",
+        "task_text": "Отрезки MC и ID — диаметры окружности с центром E. Угол MCI равен 57°. Найдите величину угла MED. Ответ дайте в градусах.",
+        "task_html": "<p>Диаметры MC и ID пересекаются в центре окружности E. Вписанный угол <math><mi>MCI</mi></math> составляет 57°. Определите величину центрального угла <math><mi>MED</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>MED</mi></math> является смежным для угла <math><mi>MEI</mi></math>. В свою очередь угол <math><mi>MEI</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>MIC</mi></math>, а значет он в два раза больше него: <math><mi>MEI</mi></math>=<math><mi>57*2</mi></math>=114. Теперь остается найти угол <math><mi>MED</mi></math> как смежный углу <math><mi>MEI</mi></math>. <math><mi>MED</mi></math> = <math><mi>180-114</mi></math>=66</p>",
+        "task_answer": "66",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <circle cx=\"96.79111137620438\" cy=\"378.55752193730785\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"87.59857805877665\" y=\"393.9844245697848\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">M</text>\n  <circle cx=\"58.73904880739289\" cy=\"191.52565905545268\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"47.263391735836464\" y=\"188.01719859877983\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">I</text>\n  <circle cx=\"403.2088886237956\" cy=\"121.44247806269215\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"412.4014219412233\" y=\"113.72902674645367\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"441.2609511926071\" cy=\"308.4743409445474\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"452.7366082641635\" y=\"315.4912618578931\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">D</text>\n  <line x1=\"403.2088886237956\" y1=\"121.44247806269215\" x2=\"96.79111137620438\" y2=\"378.55752193730785\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"403.2088886237956\" y1=\"121.44247806269215\" x2=\"58.73904880739289\" y2=\"191.52565905545268\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"58.73904880739289\" y1=\"191.52565905545268\" x2=\"441.2609511926071\" y2=\"308.4743409445474\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 380.22755533022627,140.72610635328832 Q 350.8298141916014,146.70714438580424 373.8111474851707,127.42351609520806\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 227.01866670643065,269.2836282905962 Q 255.70780938532172,278.05477943227834 278.6891426788911,258.77115114168214\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "RZEASBG03G",
+        "task_subject": "math",
+        "task_text": "Отрезки MQ и LV — диаметры окружности с центром H. Угол MQL равен 52°. Найдите величину угла MHV. Ответ дайте в градусах.",
+        "task_html": "<p>Диаметры MQ и LV пересекаются в центре окружности H. Вписанный угол <math><mi>MQL</mi></math> составляет 52°. Определите величину центрального угла <math><mi>MHV</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>MHV</mi></math> является смежным для угла <math><mi>MHL</mi></math>. В свою очередь угол <math><mi>MHL</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>MLQ</mi></math>, а значет он в два раза больше него: <math><mi>MHL</mi></math>=<math><mi>52*2</mi></math>=104. Теперь остается найти угол <math><mi>MHV</mi></math> как смежный углу <math><mi>MHL</mi></math>. <math><mi>MHV</mi></math> = <math><mi>180-104</mi></math>=76</p>",
+        "task_answer": "76",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">H</text>\n  <circle cx=\"446.3254366895328\" cy=\"211.838200924691\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"458.1049628909048\" y=\"209.54849298017245\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">M</text>\n  <circle cx=\"400.9419160445544\" cy=\"381.21180579810147\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"409.9984310072276\" y=\"396.95722249387364\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"53.67456331046719\" cy=\"288.161799075309\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"41.89503710909523\" y=\"292.74121496434606\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Q</text>\n  <circle cx=\"99.05808395544565\" cy=\"118.7881942018985\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"90.00156899277239\" y=\"110.91548585401242\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <line x1=\"53.67456331046719\" y1=\"288.161799075309\" x2=\"446.3254366895328\" y2=\"211.838200924691\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"53.67456331046719\" y1=\"288.161799075309\" x2=\"400.9419160445544\" y2=\"381.21180579810147\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"400.9419160445544\" y1=\"381.21180579810147\" x2=\"99.05808395544565\" y2=\"118.7881942018985\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 83.12337881389712,282.4375292140126 Q 112.10115360256916,290.2021005670882 82.65233809913923,295.9263704283846\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 279.4488155034299,244.27573013870364 Q 256.80752809674675,224.5939592689884 227.35871259331685,230.31822913028478\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "3QLWDE5RT6",
+        "task_subject": "math",
+        "task_text": "Отрезки TP и JY — диаметры окружности с центром R. Угол TPJ равен 60°. Найдите величину угла TRY. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке R отрезки TP и JY являются диаметрами. Угол <math><mi>TPJ</mi></math> равен 60°. Найдите угол <math><mi>TRY</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>TRY</mi></math> является смежным для угла <math><mi>TRJ</mi></math>. В свою очередь угол <math><mi>TRJ</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>TJP</mi></math>, а значет он в два раза больше него: <math><mi>TRJ</mi></math>=<math><mi>60*2</mi></math>=120. Теперь остается найти угол <math><mi>TRY</mi></math> как смежный углу <math><mi>TRJ</mi></math>. <math><mi>TRY</mi></math> = <math><mi>180-120</mi></math>=60</p>",
+        "task_answer": "60",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">R</text>\n  <circle cx=\"449.23893961834915\" cy=\"232.56885145046843\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.1932759954501\" y=\"231.52298253749655\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">T</text>\n  <circle cx=\"364.7152872702092\" cy=\"413.8304088577984\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"371.5982045064218\" y=\"433.49005792073416\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">J</text>\n  <circle cx=\"50.76106038165088\" cy=\"267.43114854953154\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.806724004549935\" y=\"269.5228863754753\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">P</text>\n  <circle cx=\"135.28471272979095\" cy=\"86.16959114220154\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"128.40179549357842\" y=\"76.33976661073363\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Y</text>\n  <line x1=\"50.76106038165088\" y1=\"267.43114854953154\" x2=\"449.23893961834915\" y2=\"232.56885145046843\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"50.76106038165088\" y1=\"267.43114854953154\" x2=\"364.7152872702092\" y2=\"413.8304088577984\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"364.7152872702092\" y1=\"413.8304088577984\" x2=\"135.28471272979095\" y2=\"86.16959114220154\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 80.64690132440325,264.8164762671018 Q 107.83613493550274,277.4950241193228 77.95029399275037,280.10969640175256\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 279.8858409427524,247.38532771757028 Q 262.678547852221,222.8107663889005 232.79270690946865,225.42543867133023\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "8BGESDZV5F",
+        "task_subject": "math",
+        "task_text": "Отрезки DW и UH — диаметры окружности с центром V. Угол DWU равен 36°. Найдите величину угла DVH. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром V проведены диаметры DW и UH. Угол <math><mi>DWU</mi></math>, который является вписанным, равен 36°. Найдите угол <math><mi>DVH</mi></math>, который является центральным. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>DVH</mi></math> является смежным для угла <math><mi>DVU</mi></math>. В свою очередь угол <math><mi>DVU</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>DUW</mi></math>, а значет он в два раза больше него: <math><mi>DVU</mi></math>=<math><mi>36*2</mi></math>=72. Теперь остается найти угол <math><mi>DVH</mi></math> как смежный углу <math><mi>DVU</mi></math>. <math><mi>DVH</mi></math> = <math><mi>180-72</mi></math>=108</p>",
+        "task_answer": "108",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"52.46233188097244\" cy=\"281.28689300804615\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"40.61007179383079\" y=\"285.04132016901167\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">D</text>\n  <circle cx=\"71.79869516232645\" cy=\"159.20190005209062\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"61.10661687206604\" y=\"153.75401405521606\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">U</text>\n  <circle cx=\"447.53766811902756\" cy=\"218.71310699195388\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"459.3899282061692\" y=\"216.83589341147112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">W</text>\n  <circle cx=\"428.20130483767355\" cy=\"340.7980999479094\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"438.893383127934\" y=\"351.69387194165853\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">H</text>\n  <line x1=\"447.53766811902756\" y1=\"218.71310699195388\" x2=\"52.46233188097244\" y2=\"281.28689300804615\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"447.53766811902756\" y1=\"218.71310699195388\" x2=\"71.79869516232645\" y2=\"159.20190005209062\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"71.79869516232645\" y1=\"159.20190005209062\" x2=\"428.20130483767355\" y2=\"340.7980999479094\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 417.90701790117345,223.4061409431608 Q 388.27636768331934,218.71310699195388 417.90701790117345,214.02007304074695\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 220.36934978214586,254.69303395120693 Q 247.0995455077969,268.31274894339333 276.730195725651,263.6197149921864\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "HKCP9I53UM",
+        "task_subject": "math",
+        "task_text": "Отрезки HF и CA — диаметры окружности с центром R. Угол HFC равен 59°. Найдите величину угла HRA. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке R отрезки HF и CA — это диаметры. Угол <math><mi>HFC</mi></math> равен 59°. Найдите угол <math><mi>HRA</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>HRA</mi></math> является смежным для угла <math><mi>HRC</mi></math>. В свою очередь угол <math><mi>HRC</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>HCF</mi></math>, а значет он в два раза больше него: <math><mi>HRC</mi></math>=<math><mi>59*2</mi></math>=118. Теперь остается найти угол <math><mi>HRA</mi></math> как смежный углу <math><mi>HRC</mi></math>. <math><mi>HRA</mi></math> = <math><mi>180-118</mi></math>=62</p>",
+        "task_answer": "62",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">R</text>\n  <circle cx=\"51.09562092634533\" cy=\"229.09430734646926\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"39.161358181926055\" y=\"227.83996578725743\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">H</text>\n  <circle cx=\"165.47634765186012\" cy=\"68.73844259267\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"160.40492851097173\" y=\"57.8627491482302\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"448.9043790736547\" cy=\"270.9056926535307\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"460.838641818074\" y=\"273.4143757719544\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"334.52365234813993\" cy=\"431.26155740733\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"339.5950714890283\" y=\"453.0129442962096\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">A</text>\n  <line x1=\"448.9043790736547\" y1=\"270.9056926535307\" x2=\"51.09562092634533\" y2=\"229.09430734646926\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"448.9043790736547\" y1=\"270.9056926535307\" x2=\"165.47634765186012\" y2=\"68.73844259267\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"165.47634765186012\" y1=\"68.73844259267\" x2=\"334.52365234813993\" y2=\"431.26155740733\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 419.0687222126065,267.7698387555011 Q 394.6452566619169,250.3487500841729 424.4809135229651,253.48460398220251\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 220.1643431389518,246.8641461019704 Q 232.8428909911728,274.0533797130699 262.678547852221,277.1892336110995\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "088GGGYJO1",
+        "task_subject": "math",
+        "task_text": "Отрезки OD и LE — диаметры окружности с центром Y. Угол ODL равен 33°. Найдите величину угла OYE. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке Y отрезки OD и LE являются диаметрами. Угол <math><mi>ODL</mi></math> равен 33°. Найдите угол <math><mi>OYE</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>OYE</mi></math> является смежным для угла <math><mi>OYL</mi></math>. В свою очередь угол <math><mi>OYL</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>OLD</mi></math>, а значет он в два раза больше него: <math><mi>OYL</mi></math>=<math><mi>33*2</mi></math>=66. Теперь остается найти угол <math><mi>OYE</mi></math> как смежный углу <math><mi>OYL</mi></math>. <math><mi>OYE</mi></math> = <math><mi>180-66</mi></math>=114</p>",
+        "task_answer": "114",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Y</text>\n  <circle cx=\"288.16179907530903\" cy=\"446.3254366895328\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"290.4515070198276\" y=\"469.88448909227674\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">O</text>\n  <circle cx=\"175.07868131681755\" cy=\"435.43677091335746\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"170.5834021958266\" y=\"457.68918342296035\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"211.838200924691\" cy=\"53.67456331046719\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"209.54849298017245\" y=\"41.89503710909523\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">D</text>\n  <circle cx=\"324.92131868318245\" cy=\"64.56322908664256\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"329.4165978041734\" y=\"53.43702283184112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <line x1=\"211.838200924691\" y1=\"53.67456331046719\" x2=\"288.16179907530903\" y2=\"446.3254366895328\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"211.838200924691\" y1=\"53.67456331046719\" x2=\"175.07868131681755\" y2=\"435.43677091335746\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"175.07868131681755\" y1=\"435.43677091335746\" x2=\"324.92131868318245\" y2=\"64.56322908664256\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 217.56247078598736,83.12337881389712 Q 214.68709821038064,112.98526476491249 208.96282834908428,83.53644926148256\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 255.72426986129636,279.4488155034299 Q 266.96246766377374,251.63329986642628 261.2381978024774,222.1844843629964\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "431PREDX5X",
+        "task_subject": "math",
+        "task_text": "Отрезки OJ и TE — диаметры окружности с центром W. Угол OJT равен 52°. Найдите величину угла OWE. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке W отрезки OJ и TE являются диаметрами. Угол <math><mi>OJT</mi></math> равен 52°. Найдите угол <math><mi>OWE</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>OWE</mi></math> является смежным для угла <math><mi>OWT</mi></math>. В свою очередь угол <math><mi>OWT</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>OTJ</mi></math>, а значет он в два раза больше него: <math><mi>OWT</mi></math>=<math><mi>52*2</mi></math>=104. Теперь остается найти угол <math><mi>OWE</mi></math> как смежный углу <math><mi>OWT</mi></math>. <math><mi>OWE</mi></math> = <math><mi>180-104</mi></math>=76</p>",
+        "task_answer": "76",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">W</text>\n  <circle cx=\"324.9213186831824\" cy=\"435.43677091335746\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"329.4165978041733\" y=\"457.68918342296035\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">O</text>\n  <circle cx=\"149.99999999999991\" cy=\"423.2050807568877\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"143.99999999999991\" y=\"443.9896904477142\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">T</text>\n  <circle cx=\"175.0786813168175\" cy=\"64.56322908664256\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"170.58340219582655\" y=\"53.43702283184112\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">J</text>\n  <circle cx=\"349.99999999999994\" cy=\"76.79491924311225\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"355.99999999999994\" y=\"66.40261439769898\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <line x1=\"175.0786813168175\" y1=\"64.56322908664256\" x2=\"324.9213186831824\" y2=\"435.43677091335746\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"175.0786813168175\" y1=\"64.56322908664256\" x2=\"149.99999999999991\" y2=\"423.2050807568877\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"149.99999999999991\" y1=\"423.2050807568877\" x2=\"349.99999999999994\" y2=\"76.79491924311225\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 186.31687911929487,92.37874472364618 Q 184.22418490697112,122.30566623144091 172.98598710449374,94.4901505944373\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 261.2381978024774,277.8155156370036 Q 276.2381978024774,251.83475352347045 265.0,224.01923788646684\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "8E0CVNL3YI",
+        "task_subject": "math",
+        "task_text": "Отрезки GM и QW — диаметры окружности с центром N. Угол GMQ равен 36°. Найдите величину угла GNW. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром N проведены диаметры GM и QW. Угол <math><mi>GMQ</mi></math>, который является вписанным, равен 36°. Найдите угол <math><mi>GNW</mi></math>, который является центральным. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>GNW</mi></math> является смежным для угла <math><mi>GNQ</mi></math>. В свою очередь угол <math><mi>GNQ</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>GQM</mi></math>, а значет он в два раза больше него: <math><mi>GNQ</mi></math>=<math><mi>36*2</mi></math>=72. Теперь остается найти угол <math><mi>GNW</mi></math> как смежный углу <math><mi>GNQ</mi></math>. <math><mi>GNW</mi></math> = <math><mi>180-72</mi></math>=108</p>",
+        "task_answer": "108",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <circle cx=\"253.49048128745662\" cy=\"449.96953903127826\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"253.69991016470402\" y=\"473.9658837150316\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">G</text>\n  <circle cx=\"135.28471272979073\" cy=\"413.8304088577983\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"128.40179549357816\" y=\"433.4900579207341\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Q</text>\n  <circle cx=\"246.5095187125434\" cy=\"50.03046096872174\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"246.300089835296\" y=\"38.032288626845045\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">M</text>\n  <circle cx=\"364.7152872702093\" cy=\"86.16959114220171\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"371.59820450642184\" y=\"76.33976661073382\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">W</text>\n  <line x1=\"246.5095187125434\" y1=\"50.03046096872174\" x2=\"253.49048128745662\" y2=\"449.96953903127826\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"246.5095187125434\" y1=\"50.03046096872174\" x2=\"135.28471272979073\" y2=\"413.8304088577983\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"135.28471272979073\" y1=\"413.8304088577983\" x2=\"364.7152872702093\" y2=\"86.16959114220171\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 247.0330909056619,80.02589182341347 Q 238.2619397639798,108.71503450230453 237.7383675708613,78.7196036476128\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 250.5235721931185,279.99543085469173 Q 267.7308652836499,255.420869526022 267.2072930905314,225.42543867133026\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "XM9X4NZEZZ",
+        "task_subject": "math",
+        "task_text": "Отрезки SR и JP — диаметры окружности с центром X. Угол SRJ равен 47°. Найдите величину угла SXP. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке X отрезки SR и JP — это диаметры. Угол <math><mi>SRJ</mi></math> равен 47°. Найдите угол <math><mi>SXP</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>SXP</mi></math> является смежным для угла <math><mi>SXJ</mi></math>. В свою очередь угол <math><mi>SXJ</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>SJR</mi></math>, а значет он в два раза больше него: <math><mi>SXJ</mi></math>=<math><mi>47*2</mi></math>=94. Теперь остается найти угол <math><mi>SXP</mi></math> как смежный углу <math><mi>SXJ</mi></math>. <math><mi>SXP</mi></math> = <math><mi>180-94</mi></math>=86</p>",
+        "task_answer": "86",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">X</text>\n  <circle cx=\"50.12183459618086\" cy=\"243.02010065949978\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.129144671951714\" y=\"242.60130669906977\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">S</text>\n  <circle cx=\"118.78819420189856\" cy=\"99.05808395544557\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"110.91548585401247\" y=\"90.0015689927723\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">J</text>\n  <circle cx=\"449.87816540381914\" cy=\"256.97989934050014\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.87085532804826\" y=\"257.81748726136016\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">R</text>\n  <circle cx=\"381.2118057981014\" cy=\"400.94191604455443\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"389.0845141459875\" y=\"419.054945969901\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">P</text>\n  <line x1=\"449.87816540381914\" y1=\"256.97989934050014\" x2=\"50.12183459618086\" y2=\"243.02010065949978\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"449.87816540381914\" y1=\"256.97989934050014\" x2=\"118.78819420189856\" y2=\"99.05808395544557\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"118.78819420189856\" y1=\"99.05808395544557\" x2=\"381.2118057981014\" y2=\"400.94191604455443\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 419.89644059324627,255.9329144394251 Q 392.81888206275045,243.01758153517625 422.8006068733233,244.06456643625128\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 220.01827518942713,248.95301509892496 Q 239.70004605914232,271.59430250560814 269.6817708697152,272.64128740668315\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "NL88C7XOYW",
+        "task_subject": "math",
+        "task_text": "Отрезки IP и LN — диаметры окружности с центром S. Угол IPL равен 39°. Найдите величину угла ISN. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке S отрезки IP и LN — это диаметры. Угол <math><mi>IPL</mi></math> равен 39°. Найдите угол <math><mi>ISN</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>ISN</mi></math> является смежным для угла <math><mi>ISL</mi></math>. В свою очередь угол <math><mi>ISL</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>ILP</mi></math>, а значет он в два раза больше него: <math><mi>ISL</mi></math>=<math><mi>39*2</mi></math>=78. Теперь остается найти угол <math><mi>ISN</mi></math> как смежный углу <math><mi>ISL</mi></math>. <math><mi>ISN</mi></math> = <math><mi>180-78</mi></math>=102</p>",
+        "task_answer": "102",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">S</text>\n  <circle cx=\"103.7292596761659\" cy=\"386.39967201249965\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"94.95301525673585\" y=\"402.7676326539996\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">I</text>\n  <circle cx=\"50.487189948035166\" cy=\"263.95129474882503\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.516421344917276\" y=\"265.62545011868406\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"396.2707403238341\" cy=\"113.6003279875003\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"405.04698474326415\" y=\"105.41634766675031\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">P</text>\n  <circle cx=\"449.51281005196483\" cy=\"236.04870525117497\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.48357865508274\" y=\"235.21162756624545\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <line x1=\"396.2707403238341\" y1=\"113.6003279875003\" x2=\"103.7292596761659\" y2=\"386.39967201249965\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"396.2707403238341\" y1=\"113.6003279875003\" x2=\"50.487189948035166\" y2=\"263.95129474882503\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"50.487189948035166\" y1=\"263.95129474882503\" x2=\"449.51281005196483\" y2=\"236.04870525117497\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 374.33012927525897,134.06027878937525 Q 346.81832704370527,146.02275085713262 368.7589380922804,125.56280005525768\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 228.0593889514249,270.4599508018749 Q 257.9863104592196,268.3672565895512 279.9269215077947,247.90730578767625\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "34FEV4UPEE",
+        "task_subject": "math",
+        "task_text": "Отрезки OS и FC — диаметры окружности с центром P. Угол OSF равен 35°. Найдите величину угла OPC. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке P отрезки OS и FC — это диаметры. Угол <math><mi>OSF</mi></math> равен 35°. Найдите угол <math><mi>OPC</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>OPC</mi></math> является смежным для угла <math><mi>OPF</mi></math>. В свою очередь угол <math><mi>OPF</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>OFS</mi></math>, а значет он в два раза больше него: <math><mi>OPF</mi></math>=<math><mi>35*2</mi></math>=70. Теперь остается найти угол <math><mi>OPC</mi></math> как смежный углу <math><mi>OPF</mi></math>. <math><mi>OPC</mi></math> = <math><mi>180-70</mi></math>=110</p>",
+        "task_answer": "110",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">P</text>\n  <circle cx=\"396.2707403238341\" cy=\"113.6003279875003\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"405.04698474326415\" y=\"105.41634766675031\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">O</text>\n  <circle cx=\"448.0536137483141\" cy=\"222.1653798079869\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"459.93683057321294\" y=\"220.49530259646613\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"103.7292596761659\" cy=\"386.39967201249965\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"94.95301525673585\" y=\"402.7676326539996\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">S</text>\n  <circle cx=\"51.94638625168594\" cy=\"277.8346201920131\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"40.06316942678709\" y=\"281.1747746150547\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <line x1=\"103.7292596761659\" y1=\"386.39967201249965\" x2=\"396.2707403238341\" y2=\"113.6003279875003\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"103.7292596761659\" y1=\"386.39967201249965\" x2=\"448.0536137483141\" y2=\"222.1653798079869\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"448.0536137483141\" y1=\"222.1653798079869\" x2=\"51.94638625168594\" y2=\"277.8346201920131\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 125.669870724741,365.9397212106247 Q 152.74742925523682,353.0243883063759 130.80681820666172,373.4843391082508\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 271.94061104857514,229.54004919812505 Q 242.23256898632803,233.71524222692702 220.2919579377529,254.17519302880197\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "YU582EKYHM",
+        "task_subject": "math",
+        "task_text": "Отрезки VN и ZP — диаметры окружности с центром Q. Угол VNZ равен 51°. Найдите величину угла VQP. Ответ дайте в градусах.",
+        "task_html": "<p>Диаметры VN и ZP пересекаются в центре окружности Q. Вписанный угол <math><mi>VNZ</mi></math> составляет 51°. Определите величину центрального угла <math><mi>VQP</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>VQP</mi></math> является смежным для угла <math><mi>VQZ</mi></math>. В свою очередь угол <math><mi>VQZ</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>VZN</mi></math>, а значет он в два раза больше него: <math><mi>VQZ</mi></math>=<math><mi>51*2</mi></math>=102. Теперь остается найти угол <math><mi>VQP</mi></math> как смежный углу <math><mi>VQZ</mi></math>. <math><mi>VQP</mi></math> = <math><mi>180-102</mi></math>=78</p>",
+        "task_answer": "78",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Q</text>\n  <circle cx=\"181.59597133486625\" cy=\"62.06147584281831\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"177.49172961495822\" y=\"50.78516439338741\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"353.00761498201086\" cy=\"78.56653985957755\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"359.1880718809315\" y=\"68.2805322511522\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Z</text>\n  <circle cx=\"318.4040286651338\" cy=\"437.93852415718163\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"322.50827038504184\" y=\"460.4911470560434\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <circle cx=\"146.99238501798914\" cy=\"421.4334601404224\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"140.81192811906848\" y=\"442.0054753572731\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">P</text>\n  <line x1=\"318.4040286651338\" y1=\"437.93852415718163\" x2=\"181.59597133486625\" y2=\"62.06147584281831\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"318.4040286651338\" y1=\"437.93852415718163\" x2=\"353.00761498201086\" y2=\"78.56653985957755\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"353.00761498201086\" y1=\"78.56653985957755\" x2=\"146.99238501798914\" y2=\"421.4334601404224\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 308.1434243653637,409.74774553360436 Q 311.01879694097045,379.885859582589 321.2794012407405,408.07663820616625\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 239.73939570022995,221.80922137642276 Q 224.2882534529283,247.52424039748612 234.54885775269838,275.71501902106337\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "SHSALUYCBA",
+        "task_subject": "math",
+        "task_text": "Отрезки WP и LA — диаметры окружности с центром V. Угол WPL равен 35°. Найдите величину угла WVA. Ответ дайте в градусах.",
+        "task_html": "<p>Окружность с центром в точке V имеет диаметры WP и LA. Величина угла <math><mi>WPL</mi></math> составляет 35°. Определите величину угла <math><mi>WVA</mi></math>. Ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>WVA</mi></math> является смежным для угла <math><mi>WVL</mi></math>. В свою очередь угол <math><mi>WVL</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>WLP</mi></math>, а значет он в два раза больше него: <math><mi>WVL</mi></math>=<math><mi>35*2</mi></math>=70. Теперь остается найти угол <math><mi>WVA</mi></math> как смежный углу <math><mi>WVL</mi></math>. <math><mi>WVA</mi></math> = <math><mi>180-70</mi></math>=110</p>",
+        "task_answer": "110",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"321.67358990906007\" cy=\"436.71608529944035\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"325.9740053036037\" y=\"459.1220155353732\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">W</text>\n  <circle cx=\"201.61562088006644\" cy=\"444.05914525519927\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"198.71255813287044\" y=\"467.3462426858232\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <circle cx=\"178.32641009093993\" cy=\"63.28391470055965\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"174.02599469639634\" y=\"52.08094958259323\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">P</text>\n  <circle cx=\"298.38437911993356\" cy=\"55.9408547448007\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"301.2874418671296\" y=\"44.297306029488745\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">A</text>\n  <line x1=\"178.32641009093993\" y1=\"63.28391470055965\" x2=\"321.67358990906007\" y2=\"436.71608529944035\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"178.32641009093993\" y1=\"63.28391470055965\" x2=\"201.61562088006644\" y2=\"444.05914525519927\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"201.61562088006644\" y1=\"444.05914525519927\" x2=\"298.38437911993356\" y2=\"55.9408547448007\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 189.07744857729895,91.2913274954757 Q 190.90890476334465,121.2353714481317 180.15786627698563,93.22795865321567\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 260.751038486359,278.00741279491604 Q 268.008695354349,248.89854100663615 257.25765686799,220.89112821172012\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "SHQFZ7C1FX",
+        "task_subject": "math",
+        "task_text": "Отрезки QC и GE — диаметры окружности с центром S. Угол QCG равен 39°. Найдите величину угла QSE. Ответ дайте в градусах.",
+        "task_html": "<p>Окружность с центром в точке S имеет диаметры QC и GE. Величина угла <math><mi>QCG</mi></math> составляет 39°. Определите величину угла <math><mi>QSE</mi></math>. Ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>QSE</mi></math> является смежным для угла <math><mi>QSG</mi></math>. В свою очередь угол <math><mi>QSG</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>QGC</mi></math>, а значет он в два раза больше него: <math><mi>QSG</mi></math>=<math><mi>39*2</mi></math>=78. Теперь остается найти угол <math><mi>QSE</mi></math> как смежный углу <math><mi>QSG</mi></math>. <math><mi>QSE</mi></math> = <math><mi>180-78</mi></math>=102</p>",
+        "task_answer": "102",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">S</text>\n  <circle cx=\"50.0\" cy=\"249.99999999999997\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.0\" y=\"249.99999999999997\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Q</text>\n  <circle cx=\"94.57080770860583\" cy=\"124.13592179003253\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"85.24505617112217\" y=\"116.58407709743447\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">G</text>\n  <circle cx=\"450.0\" cy=\"250.00000000000006\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"462.0\" y=\"250.00000000000006\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"405.4291922913941\" cy=\"375.8640782099676\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"414.75494382887774\" y=\"390.9677675951637\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <line x1=\"450.0\" y1=\"250.00000000000006\" x2=\"50.0\" y2=\"249.99999999999997\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"450.0\" y1=\"250.00000000000006\" x2=\"94.57080770860583\" y2=\"124.13592179003253\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"94.57080770860583\" y1=\"124.13592179003253\" x2=\"405.4291922913941\" y2=\"375.8640782099676\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 420.0,250.00000000000006 Q 391.72075526723467,239.98579422298693 421.72075526723467,239.98579422298693\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 220.0,250.0 Q 243.3143788437091,268.8796117314951 273.3143788437091,268.8796117314951\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "R1SZW67CY2",
+        "task_subject": "math",
+        "task_text": "Отрезки DH и KN — диаметры окружности с центром C. Угол DHK равен 31°. Найдите величину угла DCN. Ответ дайте в градусах.",
+        "task_html": "<p>Диаметры DH и KN пересекаются в центре окружности C. Вписанный угол <math><mi>DHK</mi></math> составляет 31°. Определите величину центрального угла <math><mi>DCN</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>DCN</mi></math> является смежным для угла <math><mi>DCK</mi></math>. В свою очередь угол <math><mi>DCK</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>DKH</mi></math>, а значет он в два раза больше него: <math><mi>DCK</mi></math>=<math><mi>31*2</mi></math>=62. Теперь остается найти угол <math><mi>DCN</mi></math> как смежный углу <math><mi>DCK</mi></math>. <math><mi>DCN</mi></math> = <math><mi>180-62</mi></math>=118</p>",
+        "task_answer": "118",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"191.52565905545268\" cy=\"58.73904880739289\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"188.01719859877983\" y=\"47.263391735836464\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">D</text>\n  <circle cx=\"298.38437911993356\" cy=\"55.9408547448007\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"301.2874418671296\" y=\"44.297306029488745\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">K</text>\n  <circle cx=\"308.47434094454735\" cy=\"441.2609511926071\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"311.9828014012202\" y=\"464.2122653357199\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">H</text>\n  <circle cx=\"201.61562088006644\" cy=\"444.05914525519927\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"198.71255813287044\" y=\"467.3462426858232\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <line x1=\"308.47434094454735\" y1=\"441.2609511926071\" x2=\"191.52565905545268\" y2=\"58.73904880739289\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"308.47434094454735\" y1=\"441.2609511926071\" x2=\"298.38437911993356\" y2=\"55.9408547448007\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"298.38437911993356\" y1=\"55.9408547448007\" x2=\"201.61562088006644\" y2=\"444.05914525519927\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 299.70318980286527,412.571808513716 Q 298.91788135362907,382.5820887644493 307.68903249531115,411.27123144334035\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 241.22884885831792,221.31085732110893 Q 233.9711919903279,250.4197291093888 242.74234313200998,279.1088717882799\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "EASYUERSKU",
+        "task_subject": "math",
+        "task_text": "Отрезки UC и TG — диаметры окружности с центром A. Угол UCT равен 54°. Найдите величину угла UAG. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке A отрезки UC и TG — это диаметры. Угол <math><mi>UCT</mi></math> равен 54°. Найдите угол <math><mi>UAG</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>UAG</mi></math> является смежным для угла <math><mi>UAT</mi></math>. В свою очередь угол <math><mi>UAT</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>UTC</mi></math>, а значет он в два раза больше него: <math><mi>UAT</mi></math>=<math><mi>54*2</mi></math>=108. Теперь остается найти угол <math><mi>UAG</mi></math> как смежный углу <math><mi>UAT</mi></math>. <math><mi>UAG</mi></math> = <math><mi>180-108</mi></math>=72</p>",
+        "task_answer": "72",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">A</text>\n  <circle cx=\"428.20130483767355\" cy=\"340.7980999479094\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"438.893383127934\" y=\"351.69387194165853\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">U</text>\n  <circle cx=\"281.28689300804615\" cy=\"447.53766811902756\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"283.1641065885289\" y=\"471.24218829331085\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">T</text>\n  <circle cx=\"71.79869516232637\" cy=\"159.20190005209074\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"61.10661687206595\" y=\"153.75401405521617\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"218.7131069919537\" cy=\"52.46233188097247\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"216.83589341147092\" y=\"40.61007179383082\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">G</text>\n  <line x1=\"71.79869516232637\" y1=\"159.20190005209074\" x2=\"428.20130483767355\" y2=\"340.7980999479094\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"71.79869516232637\" y1=\"159.20190005209074\" x2=\"281.28689300804615\" y2=\"447.53766811902756\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"281.28689300804615\" y1=\"447.53766811902756\" x2=\"218.7131069919537\" y2=\"52.46233188097247\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 98.52889088797741,172.82161504427714 Q 116.1624484567516,197.09212487552554 89.43225273110056,183.47240988333914\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 276.730195725651,263.6197149921864 Q 272.0371617744441,233.98906477433226 245.30696604879304,220.36934978214586\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "5G5R1C92JY",
+        "task_subject": "math",
+        "task_text": "Отрезки EB и AZ — диаметры окружности с центром G. Угол EBA равен 45°. Найдите величину угла EGZ. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке G отрезки EB и AZ являются диаметрами. Угол <math><mi>EBA</mi></math> равен 45°. Найдите угол <math><mi>EGZ</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>EGZ</mi></math> является смежным для угла <math><mi>EGA</mi></math>. В свою очередь угол <math><mi>EGA</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>EAB</mi></math>, а значет он в два раза больше него: <math><mi>EGA</mi></math>=<math><mi>45*2</mi></math>=90. Теперь остается найти угол <math><mi>EGZ</mi></math> как смежный углу <math><mi>EGA</mi></math>. <math><mi>EGZ</mi></math> = <math><mi>180-90</mi></math>=90</p>",
+        "task_answer": "90",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">G</text>\n  <circle cx=\"246.5095187125433\" cy=\"449.96953903127826\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"246.3000898352959\" y=\"473.9658837150316\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <circle cx=\"106.13203993226978\" cy=\"388.93167409179944\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"97.49996232820597\" y=\"405.6034749828154\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">A</text>\n  <circle cx=\"253.49048128745673\" cy=\"50.03046096872174\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"253.69991016470414\" y=\"38.032288626845045\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">B</text>\n  <circle cx=\"393.8679600677302\" cy=\"111.06832590820056\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"402.500037671794\" y=\"102.7324254626926\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Z</text>\n  <line x1=\"253.49048128745673\" y1=\"50.03046096872174\" x2=\"246.5095187125433\" y2=\"449.96953903127826\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"253.49048128745673\" y1=\"50.03046096872174\" x2=\"106.13203993226978\" y2=\"388.93167409179944\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"106.13203993226978\" y1=\"388.93167409179944\" x2=\"393.8679600677302\" y2=\"111.06832590820056\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 252.96690909433823,80.02589182341347 Q 241.00443702658086,107.53769405496719 241.52800921969936,77.54226320027546\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 249.4764278068815,279.99543085469173 Q 271.05662181704105,259.1556797409218 271.5801940101595,229.16024888623008\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "U1B8H2265L",
+        "task_subject": "math",
+        "task_text": "Отрезки NZ и HM — диаметры окружности с центром U. Угол NZH равен 58°. Найдите величину угла NUM. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке U отрезки NZ и HM являются диаметрами. Угол <math><mi>NZH</mi></math> равен 58°. Найдите угол <math><mi>NUM</mi></math>. Ответ дайте в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>NUM</mi></math> является смежным для угла <math><mi>NUH</mi></math>. В свою очередь угол <math><mi>NUH</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>NHZ</mi></math>, а значет он в два раза больше него: <math><mi>NUH</mi></math>=<math><mi>58*2</mi></math>=116. Теперь остается найти угол <math><mi>NUM</mi></math> как смежный углу <math><mi>NUH</mi></math>. <math><mi>NUM</mi></math> = <math><mi>180-116</mi></math>=64</p>",
+        "task_answer": "64",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">U</text>\n  <circle cx=\"50.12183459618086\" cy=\"243.02010065949978\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"38.129144671951714\" y=\"242.60130669906977\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <circle cx=\"150.00000000000006\" cy=\"76.79491924311225\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"144.00000000000006\" y=\"66.40261439769898\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">H</text>\n  <circle cx=\"449.87816540381914\" cy=\"256.97989934050014\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"461.87085532804826\" y=\"257.81748726136016\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Z</text>\n  <circle cx=\"350.0\" cy=\"423.2050807568877\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"356.0\" y=\"443.9896904477142\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">M</text>\n  <line x1=\"449.87816540381914\" y1=\"256.97989934050014\" x2=\"50.12183459618086\" y2=\"243.02010065949978\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"449.87816540381914\" y1=\"256.97989934050014\" x2=\"150.00000000000006\" y2=\"76.79491924311225\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"150.00000000000006\" y1=\"76.79491924311225\" x2=\"350.0\" y2=\"423.2050807568877\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 419.89644059324627,255.9329144394251 Q 394.1814215721829,240.4817721921235 424.16314638275577,241.52875709319852\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 220.01827518942713,248.95301509892496 Q 235.01827518942713,274.93377721245815 265.0,275.98076211353316\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "medium"
+    },
+    {
+        "uid": "M3SSZ8XSLL",
+        "task_subject": "math",
+        "task_text": "Отрезки YV и CL — диаметры окружности с центром R. Угол YVC равен 38°. Найдите величину угла YRL. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке R отрезки YV и CL — это диаметры. Угол <math><mi>YVC</mi></math> равен 38°. Найдите угол <math><mi>YRL</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>YRL</mi></math> является смежным для угла <math><mi>YRC</mi></math>. В свою очередь угол <math><mi>YRC</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>YCV</mi></math>, а значет он в два раза больше него: <math><mi>YRC</mi></math>=<math><mi>38*2</mi></math>=76. Теперь остается найти угол <math><mi>YRL</mi></math> как смежный углу <math><mi>YRC</mi></math>. <math><mi>YRL</mi></math> = <math><mi>180-76</mi></math>=104</p>",
+        "task_answer": "104",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">R</text>\n  <circle cx=\"419.60961923128514\" cy=\"355.983852846641\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"429.78619638516227\" y=\"368.70191518823793\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">Y</text>\n  <circle cx=\"318.4040286651338\" cy=\"437.93852415718163\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"322.50827038504184\" y=\"460.4911470560434\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">C</text>\n  <circle cx=\"80.39038076871475\" cy=\"144.0161471533591\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"70.21380361483763\" y=\"137.65711598256064\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">V</text>\n  <circle cx=\"181.5959713348664\" cy=\"62.06147584281828\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"177.4917296149584\" y=\"50.785164393387376\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">L</text>\n  <line x1=\"80.39038076871475\" y1=\"144.0161471533591\" x2=\"419.60961923128514\" y2=\"355.983852846641\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"80.39038076871475\" y1=\"144.0161471533591\" x2=\"318.4040286651338\" y2=\"437.93852415718163\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"318.4040286651338\" y1=\"437.93852415718163\" x2=\"181.5959713348664\" y2=\"62.06147584281828\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 105.83182365340753,159.91372508035525 Q 124.71143538490266,183.22810392406436 99.26999250020988,167.3305259970682\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 275.4414428846928,265.8975779269962 Q 265.18083858492275,237.7067993034189 239.73939570022995,221.80922137642273\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    },
+    {
+        "uid": "J8I1O89WX0",
+        "task_subject": "math",
+        "task_text": "Отрезки NU и FE — диаметры окружности с центром S. Угол NUF равен 35°. Найдите величину угла NSE. Ответ дайте в градусах.",
+        "task_html": "<p>В окружности с центром в точке S отрезки NU и FE — это диаметры. Угол <math><mi>NUF</mi></math> равен 35°. Найдите угол <math><mi>NSE</mi></math>. Дайте ответ в градусах.</p>",
+        "task_solution": "<p>Угол <math><mi>NSE</mi></math> является смежным для угла <math><mi>NSF</mi></math>. В свою очередь угол <math><mi>NSF</mi></math> является центральным углом, опирающимся на туже дугу, что и вписанный угол <math><mi>NFU</mi></math>, а значет он в два раза больше него: <math><mi>NSF</mi></math>=<math><mi>35*2</mi></math>=70. Теперь остается найти угол <math><mi>NSE</mi></math> как смежный углу <math><mi>NSF</mi></math>. <math><mi>NSE</mi></math> = <math><mi>180-70</mi></math>=110</p>",
+        "task_answer": "110",
+        "task_images_svg": [
+            "<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"500\" height=\"500\" viewBox=\"0 0 500 500\">\n  <circle cx=\"250\" cy=\"250\" r=\"200\" stroke=\"#242424\" fill=\"none\" stroke-width=\"2px\"/>\n  <circle cx=\"250\" cy=\"250\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"265\" y=\"235\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">S</text>\n  <circle cx=\"141.0721929969946\" cy=\"417.7341135890848\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"134.5365245768143\" y=\"437.862207219775\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">N</text>\n  <circle cx=\"64.56322908664251\" cy=\"324.9213186831824\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"53.437022831841055\" y=\"333.9118769251643\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">F</text>\n  <circle cx=\"358.9278070030054\" cy=\"82.26588641091519\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"365.46347542318574\" y=\"72.20183959557009\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">U</text>\n  <circle cx=\"435.43677091335746\" cy=\"175.0786813168176\" r=\"2\" fill=\"#242424\"/>\n  <text x=\"446.5629771681589\" y=\"170.58340219582666\" fill=\"#242424\" font-family=\"Arial\" font-weight=\"600\" text-anchor=\"middle\" font-size=\"18\">E</text>\n  <line x1=\"358.9278070030054\" y1=\"82.26588641091519\" x2=\"141.0721929969946\" y2=\"417.7341135890848\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"358.9278070030054\" y1=\"82.26588641091519\" x2=\"64.56322908664251\" y2=\"324.9213186831824\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <line x1=\"64.56322908664251\" y1=\"324.9213186831824\" x2=\"435.43677091335746\" y2=\"175.0786813168176\" stroke=\"#464646\" stroke-width=\"2px\"/>\n  <path d=\"M 342.58863595255457,107.42600344927791 Q 319.43989845092295,126.50835005761083 335.7790695013738,101.3482330192481\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n  <path d=\"M 233.6608289495492,275.1601170383627 Q 261.47634458655284,263.92191923588535 277.8155156370036,238.76180219752263\" stroke=\"#725DFF\" fill=\"none\" stroke-width=\"2px\"/>\n</svg>\n"
+        ],
+        "task_hints": [
+            "<p>Центральный угол равен удвоенному вписанному углу, опирающемуся на ту же дугу.</p>",
+            "<p>Используйте свойство, смежных углов. Сумма смежных углов - равняется 180 градусам.</p>"
+        ],
+        "task_group_label": "Поиск центральногго угла, через вписанный и смежный",
+        "task_types": [
+            "7.1 Фигуры на плоскости"
+        ],
+        "task_group_key": "circle_task_a",
+        "answer_type": "short",
+        "task_num": 1,
+        "fipi_uid": "80A34C",
+        "difficulty": "easy"
+    }
+]

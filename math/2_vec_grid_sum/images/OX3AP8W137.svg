@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg width="500" height="500" viewBox="-200 -800 1000 1000" xmlns="http://www.w3.org/2000/svg">
+  <line x1="-200" y1="200" x2="-200" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="-100" y1="200" x2="-100" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="0" y1="200" x2="0" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="100" y1="200" x2="100" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="200" y1="200" x2="200" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="300" y1="200" x2="300" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="400" y1="200" x2="400" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="500" y1="200" x2="500" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="600" y1="200" x2="600" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="700" y1="200" x2="700" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="800" y1="200" x2="800" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="200" x2="800" y2="200" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="100" x2="800" y2="100" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="0" x2="800" y2="0" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="-100" x2="800" y2="-100" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="-200" x2="800" y2="-200" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="-300" x2="800" y2="-300" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="-400" x2="800" y2="-400" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="-500" x2="800" y2="-500" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="-600" x2="800" y2="-600" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="-700" x2="800" y2="-700" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="-800" x2="800" y2="-800" stroke="#464646" stroke-width="1"/>
+  <line x1="-200" y1="0" x2="800" y2="0" stroke="black" stroke-width="2"/>
+  <line x1="0" y1="200" x2="0" y2="-800" stroke="black" stroke-width="2"/>
+  <text x="-42" y="52" fill="#242424" font-family="Arial" font-weight="600" font-size="48">0</text>
+  <text x="88" y="52" fill="#242424" font-family="Arial" font-weight="600" font-size="48">1</text>
+  <text x="-42" y="-80" fill="#242424" font-family="Arial" font-weight="600" font-size="48">1</text>
+  <defs>
+    <marker id="arrow" markerWidth="5" markerHeight="5" refX="4" refY="2.5" orient="auto">
+      <path d="M0,0 L5,2.5 L0,5 Z" fill="#9254de"/>
+    </marker>
+  </defs>
+  <line x1="0" y1="-300" x2="600" y2="100" stroke="#9254de" stroke-width="8" marker-end="url(#arrow)" aria-description="a"/>
+  <text x="289.7504062792073" y="-111.625609418811" fill="#242424" font-family="Arial" font-weight="600" font-size="48">a</text>
+  <line x1="287.7504062792073" y1="-151.625609418811" x2="317.7504062792073" y2="-151.625609418811" stroke="#242424" stroke-width="3"/>
+  <line x1="317.7504062792073" y1="-150.625609418811" x2="312.7504062792073" y2="-156.625609418811" stroke="#242424" stroke-width="3"/>
+  <line x1="317.7504062792073" y1="-152.625609418811" x2="312.7504062792073" y2="-146.625609418811" stroke="#242424" stroke-width="3"/>
+  <line x1="500" y1="-300" x2="0" y2="-500" stroke="#9254de" stroke-width="8" marker-end="url(#arrow)" aria-description="b"/>
+  <text x="210.11549835666867" y="-355.28874589167174" fill="#242424" font-family="Arial" font-weight="600" font-size="48">b</text>
+  <line x1="208.11549835666867" y1="-395.28874589167174" x2="238.11549835666867" y2="-395.28874589167174" stroke="#242424" stroke-width="3"/>
+  <line x1="238.11549835666867" y1="-394.28874589167174" x2="233.11549835666867" y2="-400.28874589167174" stroke="#242424" stroke-width="3"/>
+  <line x1="238.11549835666867" y1="-396.28874589167174" x2="233.11549835666867" y2="-390.28874589167174" stroke="#242424" stroke-width="3"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <circle cx="250" cy="250" r="200" stroke="#242424" fill="none" stroke-width="2px"/>
+  <circle cx="250" cy="250" r="2" fill="#242424"/>
+  <text x="265" y="235" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">A</text>
+  <circle cx="260.4671912485888" cy="449.7259069509148" r="2" fill="#242424"/>
+  <text x="261.0952227235041" y="473.69301578502456" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">Q</text>
+  <circle cx="106.13203993226978" cy="388.93167409179944" r="2" fill="#242424"/>
+  <text x="97.49996232820597" y="405.6034749828154" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">I</text>
+  <circle cx="239.53280875141124" cy="50.274093049085224" r="2" fill="#242424"/>
+  <text x="238.9047772764959" y="38.290538632030334" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">X</text>
+  <circle cx="393.8679600677302" cy="111.06832590820056" r="2" fill="#242424"/>
+  <text x="402.500037671794" y="102.7324254626926" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">B</text>
+  <line x1="239.53280875141124" y1="50.274093049085224" x2="260.4671912485888" y2="449.7259069509148" stroke="#464646" stroke-width="2px"/>
+  <line x1="239.53280875141124" y1="50.274093049085224" x2="106.13203993226978" y2="388.93167409179944" stroke="#464646" stroke-width="2px"/>
+  <line x1="106.13203993226978" y1="388.93167409179944" x2="393.8679600677302" y2="111.06832590820056" stroke="#464646" stroke-width="2px"/>
+  <path d="M 241.10288743869955,80.23297909172244 Q 230.10785063697062,108.14550613118318 228.5377719496823,78.18662008854596" stroke="#725DFF" fill="none" stroke-width="2px"/>
+  <path d="M 251.57007868728832,279.95888604263723 Q 273.15027269744786,259.1191349288673 271.5801940101595,229.16024888623008" stroke="#725DFF" fill="none" stroke-width="2px"/>
+</svg>
