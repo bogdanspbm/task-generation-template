@@ -21,7 +21,7 @@ def generate_svg(base_labels, top_labels, connections):
         top_labels[0]: (-12, -8), top_labels[1]: (8, -8), top_labels[2]: (-12, -8)
     }
 
-    svg = etree.Element('svg', xmlns="http://www.w3.org/2000/svg", width="250", height="250")
+    svg = etree.Element('svg', xmlns="http://www.w3.org/2000/svg", width="250", height="250",  **{"viewBox": "0 0 250 250"})
 
     dashed_connections = [(base_labels[0], top_labels[0]), (base_labels[1], top_labels[1]), (base_labels[2], top_labels[2])]
     drawn_edges = set()
@@ -142,9 +142,10 @@ def generate_volume_tasks(limit=1000):
                 "task_hints": ["Используйте формулу объёма пирамиды V = S * h / 3."],
                 "answer_type": "short",
                 "task_group_key": "volume_tri_pyr",
+                "task_group_label": "Объем пирамиты в треугольной трапеции",
                 "difficulty": "medium",
                 "fipi_uid": "BE03FA",
-                "answer": str(volume),
+                "task_answer": str(volume),
                 "base_area": base_area,
                 "height": height,
                 "vertices": ", ".join(vertex_set),

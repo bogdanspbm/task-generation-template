@@ -2,18 +2,18 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
   <circle cx="250" cy="250" r="200" stroke="#242424" fill="none" stroke-width="2px"/>
   <circle cx="250" cy="250" r="2" fill="#242424"/>
-  <text x="265" y="235" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">A</text>
-  <circle cx="260.4671912485888" cy="449.7259069509148" r="2" fill="#242424"/>
-  <text x="261.0952227235041" y="473.69301578502456" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">Q</text>
-  <circle cx="106.13203993226978" cy="388.93167409179944" r="2" fill="#242424"/>
-  <text x="97.49996232820597" y="405.6034749828154" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">I</text>
-  <circle cx="239.53280875141124" cy="50.274093049085224" r="2" fill="#242424"/>
-  <text x="238.9047772764959" y="38.290538632030334" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">X</text>
-  <circle cx="393.8679600677302" cy="111.06832590820056" r="2" fill="#242424"/>
-  <text x="402.500037671794" y="102.7324254626926" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">B</text>
-  <line x1="239.53280875141124" y1="50.274093049085224" x2="260.4671912485888" y2="449.7259069509148" stroke="#464646" stroke-width="2px"/>
-  <line x1="239.53280875141124" y1="50.274093049085224" x2="106.13203993226978" y2="388.93167409179944" stroke="#464646" stroke-width="2px"/>
-  <line x1="106.13203993226978" y1="388.93167409179944" x2="393.8679600677302" y2="111.06832590820056" stroke="#464646" stroke-width="2px"/>
-  <path d="M 241.10288743869955,80.23297909172244 Q 230.10785063697062,108.14550613118318 228.5377719496823,78.18662008854596" stroke="#725DFF" fill="none" stroke-width="2px"/>
-  <path d="M 251.57007868728832,279.95888604263723 Q 273.15027269744786,259.1191349288673 271.5801940101595,229.16024888623008" stroke="#725DFF" fill="none" stroke-width="2px"/>
+  <text x="265" y="235" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">W</text>
+  <circle cx="153.0380759507326" cy="75.07605857212084" r="2" fill="#242424"/>
+  <text x="147.22036050777655" y="64.5806220864481" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">S</text>
+  <circle cx="301.76380902050414" cy="56.81483474218635" r="2" fill="#242424"/>
+  <text x="304.8696375617344" y="45.22372482671753" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">L</text>
+  <circle cx="346.96192404926745" cy="424.92394142787913" r="2" fill="#242424"/>
+  <text x="352.7796394922235" y="445.9148143992246" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">B</text>
+  <circle cx="198.23619097949586" cy="443.18516525781365" r="2" fill="#242424"/>
+  <text x="195.13036243826562" y="466.3673850887513" fill="#242424" font-family="Arial" font-weight="600" text-anchor="middle" font-size="18">T</text>
+  <line x1="346.96192404926745" y1="424.92394142787913" x2="153.0380759507326" y2="75.07605857212084" stroke="#464646" stroke-width="2px"/>
+  <line x1="346.96192404926745" y1="424.92394142787913" x2="301.76380902050414" y2="56.81483474218635" stroke="#464646" stroke-width="2px"/>
+  <line x1="301.76380902050414" y1="56.81483474218635" x2="198.23619097949586" y2="443.18516525781365" stroke="#464646" stroke-width="2px"/>
+  <path d="M 332.41763544187734,398.68535021369723 Q 328.76155513972293,368.9089656644576 343.30584374711304,395.1475568786395" stroke="#725DFF" fill="none" stroke-width="2px"/>
+  <path d="M 235.45571139260989,223.76140878581813 Q 227.69114003953428,252.7391835744902 242.2354286469244,278.97777478867204" stroke="#725DFF" fill="none" stroke-width="2px"/>
 </svg>

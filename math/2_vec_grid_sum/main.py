@@ -170,9 +170,10 @@ def generate_unique_tasks(limit=1000):
             "task_hints": ["Используйте формулу длины вектора sqrt(x^2 + y^2)."],
             "answer_type": "short",
             "task_group_key": "vec_grid_sum",
+            "task_group_label": "Сумма векторов на координатной плоскости",
             "difficulty": difficulty,
             "fipi_uid": "579B74",
-            "answer": str(sum_vector_length),
+            "task_answer": str(sum_vector_length),
             "coordinates": (x1, y1, x2, y2, x3, y3, x4, y4)  # Сохраняем координаты для генерации SVG позже
         }
 

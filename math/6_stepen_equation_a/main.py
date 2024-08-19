@@ -102,7 +102,6 @@ def generate_all_power_equations_tasks():
                                             "Используйте логарифмирование для решения показательного уравнения."],
                                         "uid": generate_uid(),
                                         "answer_type": "short",
-                                        "answer": x_value,
                                         'task_group_key': "stepen_equation_a",
                                         'task_group_label': "Простейшее степенное уравнение",
                                         "difficulty": difficulty

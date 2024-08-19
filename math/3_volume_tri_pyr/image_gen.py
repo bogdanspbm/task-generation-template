@@ -15,7 +15,7 @@ def generate_svg(base_labels, top_labels, connections):
     }
 
     # Create SVG root element
-    svg = etree.Element('svg', xmlns="http://www.w3.org/2000/svg", width="250", height="250")
+    svg = etree.Element('svg', xmlns="http://www.w3.org/2000/svg", width="250", height="250", **{"viewBox": "0 0 250 250"})
 
     # Draw dashed connections
     dashed_connections = [("A", "A1"), ("B", "B1"), ("C", "C1")]
